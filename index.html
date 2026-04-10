@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tambaya — Read. Question. Then decide.</title>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#FAF8F3;--ink:#0F1419;--green:#2D5F3F;--mute:#6b6b66;--line:#e8e4d8}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font-family:Inter,sans-serif;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:780px;margin:0 auto;padding:48px 24px 80px}
+header{border-bottom:1px solid var(--line);padding-bottom:32px;margin-bottom:32px}
+h1{font-family:Fraunces,serif;font-size:56px;font-weight:700;letter-spacing:-2px;color:var(--green)}
+.tag{font-size:15px;color:var(--mute);margin-top:6px;font-style:italic}
+.filters{display:flex;flex-wrap:wrap;gap:20px;margin:32px 0;padding-bottom:24px;border-bottom:1px solid var(--line)}
+.group{display:flex;gap:6px;align-items:center}
+.group-label{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:var(--mute);margin-right:8px}
+.pill{background:transparent;border:1px solid var(--line);color:var(--ink);padding:6px 14px;border-radius:999px;font:500 13px Inter;cursor:pointer;transition:.15s}
+.pill:hover{border-color:var(--green)}
+.pill.active{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.ad{border:1px dashed var(--line);padding:24px;text-align:center;color:var(--mute);font-size:12px;text-transform:uppercase;letter-spacing:2px;margin:24px 0;border-radius:4px}
+article{padding:32px 0;border-bottom:1px solid var(--line)}
+.meta{display:flex;align-items:center;gap:12px;font-size:12px;color:var(--mute);margin-bottom:12px;text-transform:uppercase;letter-spacing:1px}
+.badge{background:var(--ink);color:var(--bg);padding:3px 10px;border-radius:3px;font-weight:600}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.dot.positive{background:#2D5F3F}.dot.negative{background:#b33}.dot.neutral{background:#999}
+.ctx{padding:2px 8px;border-radius:3px;font-size:10px;border:1px solid var(--line)}
+.ctx.verified{color:var(--green);border-color:var(--green)}
+.ctx.needs_context{color:#a67c00;border-color:#a67c00}
+.ctx.disputed{color:#b33;border-color:#b33}
+h2{font-family:Fraunces,serif;font-size:26px;font-weight:500;line-height:1.25;letter-spacing:-.5px;margin-bottom:10px}
+h2 a{color:var(--ink);text-decoration:none}h2 a:hover{color:var(--green)}
+.sum{color:var(--mute);font-size:15px;margin-bottom:14px}
+.actions{display:flex;gap:18px;font-size:13px}
+.actions button{background:none;border:none;color:var(--green);cursor:pointer;font:500 13px Inter;padding:0;border-bottom:1px solid transparent}
+.actions button:hover{border-color:var(--green)}
+.qs{margin-top:16px;padding:18px 20px;background:rgba(45,95,63,.05);border-left:2px solid var(--green);display:none}
+.qs.open{display:block}
+.qs h4{font:600 11px Inter;text-transform:uppercase;letter-spacing:1.5px;color:var(--green);margin-bottom:10px}
+.qs ol{padding-left:18px}.qs li{margin-bottom:6px;font-size:14px}
+.hausa{margin-top:10px;font-style:italic;color:var(--mute);display:none}
+.hausa.open{display:block}
+.empty{text-align:center;padding:60px;color:var(--mute)}
+footer{margin-top:60px;padding-top:24px;border-top:1px solid var(--line);font-size:12px;color:var(--mute);text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>Tambaya</h1><p class="tag">Read. Question. Then decide.</p></header>
+
+<div class="filters">
+  <div class="group"><span class="group-label">Region</span>
+    <button class="pill active" data-r="all">All</button>
+    <button class="pill" data-r="nigeria">Nigeria</button>
+    <button class="pill" data-r="africa">Africa</button>
+    <button class="pill" data-r="world">World</button>
+  </div>
+  <div class="group"><span class="group-label">Tone</span>
+    <button class="pill active" data-s="all">All</button>
+    <button class="pill" data-s="positive">Positive</button>
+    <button class="pill" data-s="negative">Negative</button>
+  </div>
+</div>
+
+<div class="ad">Advertisement</div>
+<main id="feed"><div class="empty">Loading…</div></main>
+<div class="ad">Advertisement</div>
+
+<footer>Updated 3× daily. Questions are prompts, not verdicts.</footer>
+</div>
+
+<script>
+let articles=[],region="all",sentiment="all";
+const esc=s=>(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+async function load(){
+  try{const r=await fetch("articles.json?t="+Date.now());const d=await r.json();articles=d.articles||[];render()}
+  catch(e){document.getElementById("feed").innerHTML='<div class="empty">No articles yet. The scraper runs 3× daily.</div>'}
+}
+function render(){
+  const list=articles.filter(a=>{
+    const reg=a.region||a.region_hint;
+    if(region!=="all"&&reg!==region)return false;
+    if(sentiment!=="all"&&a.sentiment!==sentiment)return false;
+    return true;
+  });
+  const f=document.getElementById("feed");
+  if(!list.length){f.innerHTML='<div class="empty">No articles match these filters.</div>';return}
+  f.innerHTML=list.map((a,i)=>{
+    const qs=(a.critical_questions||[]).map(q=>`<li>${esc(q)}</li>`).join("");
+    const s=a.sentiment||"neutral",ctx=a.context_check||"verified";
+    return `<article>
+      <div class="meta"><span class="badge">${esc(a.source)}</span>
+        <span class="dot ${s}"></span><span>${s}</span>
+        <span class="ctx ${ctx}">${ctx.replace("_"," ")}</span></div>
+      <h2><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></h2>
+      <p class="sum">${esc(a.summary)}</p>
+      <div class="actions">
+        ${qs?`<button onclick="document.getElementById('q${i}').classList.toggle('open')">Ask questions →</button>`:""}
+        ${a.hausa_translation?`<button onclick="document.getElementById('h${i}').classList.toggle('open')">Hausa</button>`:""}
+      </div>
+      ${qs?`<div class="qs" id="q${i}"><h4>Before you share, ask:</h4><ol>${qs}</ol></div>`:""}
+      ${a.hausa_translation?`<div class="hausa" id="h${i}">${esc(a.hausa_translation)}</div>`:""}
+    </article>`}).join("");
+}
+document.querySelectorAll(".pill").forEach(b=>b.onclick=()=>{
+  const k=b.dataset.r?"r":"s",sel=`[data-${k}]`;
+  document.querySelectorAll(sel).forEach(x=>x.classList.remove("active"));
+  b.classList.add("active");
+  if(k==="r")region=b.dataset.r;else sentiment=b.dataset.s;
+  render();
+});
+load();
+</script>
+</body>
+</html>
