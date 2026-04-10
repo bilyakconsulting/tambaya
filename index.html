@@ -48,7 +48,7 @@ footer{margin-top:60px;padding-top:24px;border-top:1px solid var(--line);font-si
 <body>
 <div class="wrap">
 <header><h1>Tambaya</h1><p class="tag">Read. Question. Then decide.</p></header>
-
+ 
 <div class="filters">
   <div class="group"><span class="group-label">Region</span>
     <button class="pill active" data-r="all">All</button>
@@ -62,14 +62,14 @@ footer{margin-top:60px;padding-top:24px;border-top:1px solid var(--line);font-si
     <button class="pill" data-s="negative">Negative</button>
   </div>
 </div>
-
+ 
 <div class="ad">Advertisement</div>
 <main id="feed"><div class="empty">Loading…</div></main>
 <div class="ad">Advertisement</div>
-
+ 
 <footer>Updated 3× daily. Questions are prompts, not verdicts.</footer>
 </div>
-
+ 
 <script>
 let articles=[],region="all",sentiment="all";
 const esc=s=>(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
