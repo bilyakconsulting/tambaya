@@ -55,8 +55,12 @@ def init_db():
     return c
 
 
-def url_hash(u): return hashlib.sha256(u.encode()).hexdigest()[:16]
-def clean(t): return re.sub(r"<[^>]+>", "", t or "").strip()[:400]
+def url_hash(u):
+    return hashlib.sha256(u.encode()).hexdigest()[:16]
+
+
+def clean(t):
+    return re.sub(r"<[^>]+>", "", t or "").strip()[:400]
 
 
 def extract_json(text):
@@ -64,7 +68,8 @@ def extract_json(text):
     text = re.sub(r"^```(?:json)?\s*", "", text)
     text = re.sub(r"\s*```$", "", text)
     m = re.search(r"\{.*\}", text, re.DOTALL)
-    if m: return json.loads(m.group(0))
+    if m:
+        return json.loads(m.group(0))
     return json.loads(text)
 
 
@@ -75,35 +80,62 @@ def enrich(client, source, title, summary):
         messages=[{"role": "user", "content": PROMPT.format(title=title, source=source, summary=summary)}],
     )
     raw = msg.content[0].text
-    try:
-        return extract_json(raw)
-    except Exception as e:
-        print(f"  raw response: {raw[:200]}")
-        raise
+    return extract_json(raw)
 
 
 def main():
-    if not os.environ.get("ANTHROPIC_API_KEY"): raise SystemExit("no key")
+    if not os.environ.get("ANTHROPIC_API_KEY"):
+        raise SystemExit("no key")
     client = Anthropic()
-    conn = init_db(); cur = conn.cursor()
+    conn = init_db()
+    cur = conn.cursor()
     new_count = 0
     for region, sources in FEEDS.items():
         for source, url in sources.items():
-            try: feed = feedparser.parse(url)
-            except Exception as e: print(f"[skip] {source}: {e}"); continue
+            try:
+                feed = feedparser.parse(url)
+            except Exception as e:
+                print(f"[skip] {source}: {e}")
+                continue
             for entry in feed.entries[:MAX_PER_FEED]:
-                if new_count >= MAX_TOTAL_NEW: break
+                if new_count >= MAX_TOTAL_NEW:
+                    break
                 link = entry.get("link", "")
-                if not link: continue
+                if not link:
+                    continue
                 h = url_hash(link)
                 cur.execute("SELECT 1 FROM articles WHERE url_hash=?", (h,))
-                if cur.fetchone(): continue
+                if cur.fetchone():
+                    continue
                 title = clean(entry.get("title", ""))
                 summary = clean(entry.get("summary", "") or entry.get("description", ""))
-                if not title: continue
-                try: data = enrich(client, source, title, summary)
-                except Exception as e: print(f"[fail] {title[:50]}: {e}"); continue
-                cur.execute("INSERT INTO articles VALUES (?,?,?,?,?,?,?,?,?)",
-                    (h, link, source, title, summary, entry.get("published", ""), region, json.dumps(data), datetime.now(timezone.utc).isoformat()))
-                conn.commit(); new_count += 1
-                print(f"[+] {source}: {title[:6
+                if not title:
+                    continue
+                try:
+                    data = enrich(client, source, title, summary)
+                except Exception as e:
+                    print(f"[fail] {title[:50]}: {e}")
+                    continue
+                cur.execute(
+                    "INSERT INTO articles VALUES (?,?,?,?,?,?,?,?,?)",
+                    (h, link, source, title, summary, entry.get("published", ""), region, json.dumps(data), datetime.now(timezone.utc).isoformat()),
+                )
+                conn.commit()
+                new_count += 1
+                print(f"[+] {source}: {title[:60]}")
+                time.sleep(0.3)
+    cur.execute("SELECT url, source, title, summary, published, region_hint, enriched, fetched_at FROM articles ORDER BY fetched_at DESC LIMIT 200")
+    out = []
+    for row in cur.fetchall():
+        try:
+            enriched = json.loads(row[6])
+        except Exception:
+            enriched = {}
+        out.append({"url": row[0], "source": row[1], "title": row[2], "summary": row[3], "published": row[4], "region_hint": row[5], "fetched_at": row[7], **enriched})
+    with open(OUT, "w", encoding="utf-8") as f:
+        json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "count": len(out), "articles": out}, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {len(out)} articles ({new_count} new)")
+
+
+if __name__ == "__main__":
+    main()
