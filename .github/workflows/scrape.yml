@@ -20,6 +20,14 @@ jobs:
           git config user.name "tambaya-bot"
           git config user.email "bot@tambaya.local"
           git add articles.json cache.db
-          git diff --staged --quiet || git commit -m "Update articles $(date -u +%FT%TZ)"
-          git pull --rebase origin main
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "Update articles $(date -u +%FT%TZ)"
+          for i in 1 2 3; do
+            git fetch origin main
+            git reset --soft origin/main
+            git add articles.json cache.db
+            git commit -m "Update articles $(date -u +%FT%TZ)"
+            git push origin main && exit 0
+            sleep 2
+          done
+          exit 1
