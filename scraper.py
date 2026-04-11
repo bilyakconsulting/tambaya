@@ -10,8 +10,6 @@ FEEDS = {
         "Sahara Reporters (Google)": "https://news.google.com/rss/search?q=site:saharareporters.com&hl=en-NG&gl=NG&ceid=NG:en",
         "Daily Trust": "https://dailytrust.com/feed/",
         "Daily Trust (Google)": "https://news.google.com/rss/search?q=site:dailytrust.com&hl=en-NG&gl=NG&ceid=NG:en",
-        "Linda Ikeji": "https://www.lindaikejisblog.com/feeds/posts/default?alt=rss",
-        "Linda Ikeji (Google)": "https://news.google.com/rss/search?q=site:lindaikejisblog.com&hl=en-NG&gl=NG&ceid=NG:en",
         "S2J News": "https://s2jnews.com/feed/",
         "S2J News (Google)": "https://news.google.com/rss/search?q=site:s2jnews.com&hl=en-NG&gl=NG&ceid=NG:en",
         "Premium Times": "https://www.premiumtimesng.com/feed",
