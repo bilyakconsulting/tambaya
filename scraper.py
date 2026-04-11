@@ -12,6 +12,8 @@ FEEDS = {
         "Daily Trust (Google)": "https://news.google.com/rss/search?q=site:dailytrust.com&hl=en-NG&gl=NG&ceid=NG:en",
         "Linda Ikeji": "https://www.lindaikejisblog.com/feeds/posts/default?alt=rss",
         "Linda Ikeji (Google)": "https://news.google.com/rss/search?q=site:lindaikejisblog.com&hl=en-NG&gl=NG&ceid=NG:en",
+        "S2J News": "https://s2jnews.com/feed/",
+        "S2J News (Google)": "https://news.google.com/rss/search?q=site:s2jnews.com&hl=en-NG&gl=NG&ceid=NG:en",
         "Premium Times": "https://www.premiumtimesng.com/feed",
         "Premium Times (Google)": "https://news.google.com/rss/search?q=site:premiumtimesng.com&hl=en-NG&gl=NG&ceid=NG:en",
         "Punch": "https://punchng.com/feed/",
@@ -36,13 +38,15 @@ FEEDS = {
         "Reuters": "https://feeds.reuters.com/reuters/worldNews",
         "Reuters (Google)": "https://news.google.com/rss/search?q=site:reuters.com+world&hl=en&gl=US&ceid=US:en",
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+        "Middle East Eye": "https://www.middleeasteye.net/rss",
+        "Middle East Eye (Google)": "https://news.google.com/rss/search?q=site:middleeasteye.net&hl=en&gl=US&ceid=US:en",
     },
 }
 DB = "cache.db"
 OUT = "articles.json"
-MAX_PER_FEED = 6
-MAX_TOTAL_NEW = 80
-KEEP_DAYS = 3
+MAX_PER_FEED = 4
+MAX_TOTAL_NEW = 36
+KEEP_DAYS = 1
 
 PROMPT = """Analyze this news article. Return ONLY a JSON object, nothing else, no markdown.
 
@@ -100,7 +104,7 @@ def main():
     cutoff = (datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)).isoformat()
     cur.execute("DELETE FROM articles WHERE fetched_at < ?", (cutoff,))
     conn.commit()
-    print(f"Pruned articles older than {KEEP_DAYS} days")
+    print(f"Pruned articles older than {KEEP_DAYS} day(s)")
 
     new_count = 0
     for region, sources in FEEDS.items():
@@ -138,7 +142,7 @@ def main():
                 print(f"[+] {source}: {title[:60]}")
                 time.sleep(0.3)
 
-    cur.execute("SELECT url, source, title, summary, published, region_hint, enriched, fetched_at FROM articles ORDER BY fetched_at DESC LIMIT 120")
+    cur.execute("SELECT url, source, title, summary, published, region_hint, enriched, fetched_at FROM articles ORDER BY fetched_at DESC LIMIT 40")
     out = []
     for row in cur.fetchall():
         try:
