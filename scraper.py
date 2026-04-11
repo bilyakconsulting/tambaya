@@ -25,7 +25,6 @@ FEEDS = {
         "Tribune": "https://tribuneonlineng.com/feed/",
         "PM News": "https://pmnewsnigeria.com/feed/",
         "Daily Post": "https://dailypost.ng/feed/",
-        "ICIR": "https://www.icirnigeria.org/feed/",
 
     },
     "africa": {
