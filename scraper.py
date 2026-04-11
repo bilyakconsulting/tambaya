@@ -28,15 +28,13 @@ FEEDS = {
         "PM News": "https://pmnewsnigeria.com/feed/",
         "Daily Post": "https://dailypost.ng/feed/",
         "ICIR": "https://www.icirnigeria.org/feed/",
-        "HumAngle": "https://humanglemedia.com/feed/",
+
     },
     "africa": {
         "AllAfrica": "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
         "BBC Africa": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
     },
     "world": {
-        "Reuters": "https://feeds.reuters.com/reuters/worldNews",
-        "Reuters (Google)": "https://news.google.com/rss/search?q=site:reuters.com+world&hl=en&gl=US&ceid=US:en",
         "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
         "Middle East Eye": "https://www.middleeasteye.net/rss",
         "Middle East Eye (Google)": "https://news.google.com/rss/search?q=site:middleeasteye.net&hl=en&gl=US&ceid=US:en",
@@ -45,7 +43,7 @@ FEEDS = {
 DB = "cache.db"
 OUT = "articles.json"
 MAX_PER_FEED = 4
-MAX_TOTAL_NEW = 36
+MAX_TOTAL_NEW = 40
 KEEP_DAYS = 1
 
 PROMPT = """Analyze this news article. Return ONLY a JSON object, nothing else, no markdown.
