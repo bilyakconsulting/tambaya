@@ -1,7 +1,347 @@
 {
-  "generated_at": "2026-05-04T22:37:59.845413+00:00",
+  "generated_at": "2026-05-05T10:57:42.892104+00:00",
   "count": 40,
   "articles": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGs5WW9kMHZNcHVGYm03SkpCQklGVEh5QVVqbFlGZjJtRnNqM3Rwa1ZOT2NCLVBFbjBjWDdwLUdBLUs3eFBNcEU5bUtpTFdnUkl3ZnVucWttRmMwamFyWkkwaTJjM0JHcjgycGxad1hGZDNGd3J3N0NRZ21uRDAxemwtRngweWVOYk9NM2ZaTWF0Slk?oc=5",
+      "source": "Punch",
+      "title": "US resumes visa processing for Nigerian, other foreign doctors – Report - Punch Newspapers",
+      "summary": "US resumes visa processing for Nigerian, other foreign doctors – Report&nbsp;&nbsp;Punch Newspapers",
+      "published": "Mon, 04 May 2026 08:36:49 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:27.792926+00:00",
+      "hausa_translation": "Amurka ta sake daukar aiki kan tsarin visa ga likitocin Nigerian da wasu kasua na gida - Rahoton Punch Newspapers",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What prompted the US to resume visa processing specifically now, and what were the previous restrictions based on?",
+        "How many Nigerian doctors are affected, and what is the economic impact on Nigeria's healthcare system given brain drain concerns?",
+        "Why does the article lack specific details about visa categories, processing timelines, or eligibility criteria changes?",
+        "Who benefits most from this policy change - US healthcare institutions facing labor shortages, or Nigerian doctors seeking opportunities?",
+        "What is the source of this 'report' and why is attribution vague rather than directly sourced to official US State Department statements?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/apc-hails-tinubu-over-peace-meeting-in-benue/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "APC hails Tinubu over peace meeting in Benue",
+      "summary": "The Benue State APC commends President Bola Tinubu for initiating a peace meeting to foster unity between Governor Hyacinth Alia and Senator George Akume.\n\nRead More: https://punchng.com/apc-hails-tinubu-over-peace-meeting-in-benue/",
+      "published": "Tue, 05 May 2026 11:01:59 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:24.027081+00:00",
+      "hausa_translation": "APC ta yaba wa Tinubu kan taron zaman lafiya a Benue. Gwamnatin APC ta jiha Benue ta gode Shugaban kasa Bola Tinubu saboda hayarsa don taron zaman lafiya don haɗa gida tsakanin Gwamna Hyacinth Alia da Senator George Akume.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific grievances or conflicts between Alia and Akume prompted this presidential intervention, and were they made public?",
+        "Who initiated contact with President Tinubu—was this a proactive presidential move or a response to a crisis that could destabilize APC unity in Benue?",
+        "Why is the APC publicly praising Tinubu for a peace meeting rather than reporting substantive outcomes or agreements reached?",
+        "What are the underlying power dynamics and resource distribution issues between the governor and senator that the 'peace meeting' narrative obscures?",
+        "Are there competing narratives from Alia's or Akume's camps, and does their absence from this report suggest selective framing by one faction?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/join-ndc-or-take-blame-for-opposition-failure-galadima-tells-atiku/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "Join NDC or take blame for opposition failure, Galadima tells Atiku",
+      "summary": "NDC chieftain Buba Galadima urges Atiku Abubakar to join the party, warning his refusal could scuttle opposition unity ahead of the 2027 elections.\n\nRead More: https://punchng.com/join-ndc-or-take-blame-for-opposition-failure-galadima-tells-atiku/",
+      "published": "Tue, 05 May 2026 11:20:56 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:18.713645+00:00",
+      "hausa_translation": "NDC jami'i Buba Galadima ya gargaja Atiku Abubakar ya shiga jam'iyyar NDC, yana gargaja cewa kin yarda zai iya kawo da gazawar haɗin kai na 'yan adawa kafin zabukan 2027.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who benefits from Atiku joining NDC versus remaining independent or with another opposition party - what is Galadima's specific interest?",
+        "What concrete evidence exists that opposition fragmentation caused 2023 election losses versus internal party mismanagement or electoral factors?",
+        "Why is the ultimatum being issued now and by Galadima specifically - does he hold official NDC leadership authority or is this a personal/factional position?",
+        "What are the terms being offered to Atiku and does he have leverage to negotiate better arrangements with other opposition coalitions?",
+        "Are there financial or patronage arrangements implied in this call that would constitute quid pro quo politics?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/plateau-targets-50000-digital-jobs/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "Plateau targets 50,000 digital jobs",
+      "summary": "The Plateau State Government partners with Outsource Global to create 50,000 digital jobs, positioning the state as a key hub in Nigeria&#8217;s outsourcing indu\n\nRead More: https://punchng.com/plateau-targets-50000-digital-jobs/",
+      "published": "Tue, 05 May 2026 11:23:33 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:14.150408+00:00",
+      "hausa_translation": "Plateau jiyin gida yana niyar samar da aiki 50,000 na dijital",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific skills training will be provided and who will bear the costs - government or workers?",
+        "What are the actual employment guarantees versus aspirational targets, and what happens if Outsource Global fails to deliver?",
+        "Who profits most from this partnership - the state, the company, or the workers - and where is the accountability framework?",
+        "Why was Outsource Global selected, and were other bidders considered transparently?",
+        "What is the timeline and what measurable milestones exist beyond the 50,000 figure?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/adc-remains-strong-united-despite-obi-kwankwasos-exit-rivers-chair/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "ADC remains strong, united despite Obi, Kwankwaso’s exit — Rivers chair",
+      "summary": "The ADC in Rivers State remains strong and united, says its chairman, Chukwudi Dimkpa, despite the exit of Peter Obi and Rabiu Kwankwaso at the national le\n\nRead More: https://punchng.com/adc-remains-strong-united-despite-obi-kwankwasos-exit-rivers-chair/",
+      "published": "Tue, 05 May 2026 11:36:36 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:11.141484+00:00",
+      "hausa_translation": "ADC a cikin Rivers State ya kasance mai karfi da jama'a, in ji shugaban sa Chukwudi Dimkpa, duk da fita Peter Obi da Rabiu Kwankwaso a matakin ƙasa.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific evidence demonstrates ADC's strength in Rivers State given that two major national figures have departed the party?",
+        "Why would Obi and Kwankwaso exit at the national level yet the party chair claim unity without addressing the reasons for their departure?",
+        "Who benefits from framing organizational departures as 'remaining strong' and what alternative perspectives from departing members or opposition are missing?",
+        "What quantifiable metrics (membership, funding, electoral performance) support the claim of strength versus relying solely on the chair's assertion?",
+        "Is this statement defensive positioning rather than objective reporting, given the timing of high-profile exits?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQelUtajVOVzBPQmQ5YllqQTduUTJmN2VFSGdRQ1RMSXRmWnBIb1lJSUhwalhndUhTT3llNU11TEhMQ3BKa2xINE12OGpNcHV6VkJ4MHI2ZE1SNFdVUXdnMmpBNkl4ajlmUHpMeTc1SEotbWlLMm1pcmNmOHZaMUhNMGdCUUtOMmY0M05zNUFud01sQjZxd2JPSjh1LVhVUllmb1ZUTWo4Z2hXNmx1TGY3RXJzWFAzOWZmUjI5MURFQkkwRzNTLXhZZWEzMXR3TllnanZHY21MZDR4MXc?oc=5",
+      "source": "Premium Times",
+      "title": "When Gateway International Airport went global with historic Hajj flight, By Kayode Akinmade - Premium Times Nigeria",
+      "summary": "When Gateway International Airport went global with historic Hajj flight, By Kayode Akinmade&nbsp;&nbsp;Premium Times Nigeria",
+      "published": "Tue, 05 May 2026 07:59:12 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:06.728216+00:00",
+      "hausa_translation": "Lokacin da Gateway International Airport ya zama duniya ta kasua da jirgin Hajj na tarihi",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific operational or infrastructural improvements at Gateway Airport enabled this historic Hajj flight, and are these improvements sustainable?",
+        "Who are the financial beneficiaries of this Hajj flight service, and what commercial arrangements exist between the airport authority and airlines?",
+        "Why was this particular flight characterized as 'historic' - is it the first Hajj charter from Nigeria, or merely from this specific airport, and how does this compare to other Nigerian airports' Hajj operations?",
+        "What voices from pilgrims, travel agencies, or competing airports are absent from this narrative, and whose interests does the positive framing primarily serve?",
+        "What are the verifiable details on passenger numbers, flight safety records, and pricing competitiveness compared to alternative Hajj transport options?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/more-news/877062-police-arrest-13-suspects-over-alleged-assault-of-journalist.html",
+      "source": "Premium Times",
+      "title": "Police arrest 13 suspects over alleged assault of journalist",
+      "summary": "The journalist, Allwell Ene, was reportedly attacked while investigating a phone purchase fraud in Port Harcourt, Rivers State.\nThe post Police arrest 13 suspects over alleged assault of journalist appeared first on Premium Times Nigeria.",
+      "published": "Tue, 05 May 2026 09:24:08 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:57:02.369383+00:00",
+      "hausa_translation": "Jiya, 'yan sanda sun kama mutane 13 da aka zarge da tayar hannun jurnalis. Jurnalistin da ake kira Allwell Ene, an ce an tayar da shi yayin da yake bincika aiki na damfara na simu a Port Harcourt, Rivers State.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What evidence was found linking the 13 suspects to the assault, and has any been independently verified?",
+        "Who benefits from silencing this journalist's investigation into phone purchase fraud, and are there organized networks involved?",
+        "Why was a journalist investigating phone fraud targeted, and are there threats to other journalists covering similar stories?",
+        "What is the status of the fraud investigation itself, and will it continue despite the assault on the investigator?",
+        "Are there documented patterns of violence against journalists in Rivers State, and what protective measures exist?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/top-news/877064-we-wont-hand-over-party-to-kwankwaso-kano-ndc-chair.html",
+      "source": "Premium Times",
+      "title": "We won’t hand over party to Kwankwaso – Kano NDC chair",
+      "summary": "Mr Kwankwaso joined the NDC on Sunday alongside Peter Obi.\nThe post We won&#8217;t hand over party to Kwankwaso &#8211; Kano NDC chair appeared first on Premium Times Nigeria.",
+      "published": "Tue, 05 May 2026 10:00:33 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:57.870831+00:00",
+      "hausa_translation": "Ba za mu ba wa Kwankwaso jam'iyyar ba - Kano NDC shugaban",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific actions or statements by Kwankwaso prompted this defensive stance from the Kano NDC chair, and were they directly quoted?",
+        "Who benefits politically from publicly rejecting Kwankwaso - is this internal NDC positioning ahead of elections?",
+        "Why was Peter Obi's simultaneous party joining mentioned in the summary but not addressed in the chair's statement, suggesting potential factional tensions?",
+        "What concrete evidence exists of Kwankwaso attempting to 'take over' the party, or is this based on speculation and perception?",
+        "Are there missing voices from Kwankwaso's camp or NDC national leadership that could explain the context of this conflict?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/top-news/877066-zenith-bank-appoints-mustafa-bello-as-jim-ovia-retires-as-group-chairman.html",
+      "source": "Premium Times",
+      "title": "Zenith Bank appoints Mustafa Bello as Jim Ovia retires as Group Chairman",
+      "summary": "According to Zenith Bank, Mr Bello has extensive leadership experience at the board and executive levels, with a strong understanding of corporate governance principles and regulatory expectations.\nThe post Zenith Bank appoints Mustafa Bello as Jim Ovia retires as Group Chairman appeared first on Premium Times Nigeria.",
+      "published": "Tue, 05 May 2026 10:30:40 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:54.642344+00:00",
+      "hausa_translation": "Zenith Bank ya nada Mustafa Bello a matsayin Jim Ovia ya ritaye a matsayin Shugaban Rukunin Jama'a",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What were the specific circumstances and timeline for Jim Ovia's retirement decision, and was this planned succession or unexpected?",
+        "What are Mustafa Bello's previous roles and track record, and does he have documented experience at comparable financial institutions?",
+        "How was Bello selected over other potential candidates, and who made the final decision in this appointment process?",
+        "What are the implications of this leadership change for Zenith Bank's strategic direction, shareholder value, and regulatory standing?",
+        "Are there any conflicts of interest or undisclosed relationships between Bello and current board members that influenced this appointment?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/top-news/877069-breaking-court-finds-serap-liable-for-defaming-sss-awards-n100m-damages-to-security-agency.html",
+      "source": "Premium Times",
+      "title": "BREAKING: Court finds SERAP liable for defaming SSS, awards N100m damages to security agency",
+      "summary": "The court said libel is actionable once there is a publication that is false and damaging.\nThe post BREAKING: Court finds SERAP liable for defaming SSS, awards N100m damages to security agency appeared first on Premium Times Nigeria.",
+      "published": "Tue, 05 May 2026 10:51:24 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:51.123762+00:00",
+      "hausa_translation": "SANNU: Kotun ta gano SERAP na yin sharafi ga SSS, ta ba da kasuwa N100m ga hukumar tsaro",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific statements did SERAP publish that the court determined were false, and what evidence was presented to prove their falsity?",
+        "Who benefits from this judgment and does the SSS have a history of using defamation suits to silence civil society organizations?",
+        "Why was SERAP's defense or counter-evidence regarding the accuracy of their statements not detailed in this report?",
+        "What is the full context of SERAP's original statement - was it investigative reporting, advocacy, or opinion, and how does that affect defamation liability?",
+        "Are there appeals pending or available to SERAP, and what does this judgment signal about press freedom and accountability reporting in Nigeria?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM1EtRkdMVXRfTFlXTUROejhzbmpDY2ZudnU3cjRaTGJ3c3RQdU81VkRwNEFrMHJ5dUt0aDIwSUxJLURNdUx3YmFsd3hlQ05ieC0yTHZHNTJMZDJGREVIZlVtVHh1cmVlMWYyM3JKbnNSZVdUYjJQZ2k3RzFoaTN2cXlkUjdaT21ISUpCdmtmcmhWdw?oc=5",
+      "source": "Daily Trust",
+      "title": "EFCC chair: We investigated Pastor Jerry Eze for money laundering - Daily Trust",
+      "summary": "EFCC chair: We investigated Pastor Jerry Eze for money laundering&nbsp;&nbsp;Daily Trust",
+      "published": "Wed, 29 Apr 2026 14:48:15 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:46.460810+00:00",
+      "hausa_translation": "Jefe EFCC: Mun bincika Pastor Jerry Eze kan laundering kuɗi",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific evidence of money laundering was found, and why has the investigation outcome not been publicly disclosed?",
+        "Who benefits from these allegations being made public at this particular time, and what is the political or institutional context?",
+        "Why is the EFCC chair making this statement to the media rather than through official legal channels if the investigation was concluded?",
+        "What are Pastor Jerry Eze's counter-claims, and why are his responses absent from this reporting?",
+        "What is the operational definition of 'money laundering' being used, and how does the alleged conduct meet those specific legal criteria?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZEdJNnJ4MFlyajc4cHE0cW54V0wtMlI3aU1WY2tSS0Q3d3RtSVV6aERkanBRd2M1amIzMk1TcGVqYVJSZG9HZWNOMEE5UzVNR1ZwZExaNUVjZW4zZ2MwN3pnRm1SUUxsR2FfcnpVU0lxb0ZTZ1NERUYxMzEzWlNjeWdQUHRPX1M4S3Z0S1UycURSU3N2UEtPMGZSUFg2c0g3?oc=5",
+      "source": "Daily Trust",
+      "title": "Bolaji Abdullahi: Obi knew nothing about ADC manifesto, he just wanted ticket - Daily Trust",
+      "summary": "Bolaji Abdullahi: Obi knew nothing about ADC manifesto, he just wanted ticket&nbsp;&nbsp;Daily Trust",
+      "published": "Mon, 04 May 2026 21:43:56 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:43.426359+00:00",
+      "hausa_translation": "Bolaji Abdullahi: Obi ba ya san abin da ADC ya tsara, ya kuma so kawai je kasuwa - Daily Trust",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is Bolaji Abdullahi's political affiliation and does he have a vested interest in damaging Obi's reputation?",
+        "What specific evidence supports the claim that Obi was ignorant of ADC's manifesto - are there internal communications or testimony from other party members?",
+        "Why is this allegation being made now, and what political timing or upcoming elections might be driving its publication?",
+        "Who authorized this statement and does Daily Trust provide Obi's response or right of reply in this report?",
+        "What does 'just wanted ticket' imply, and are there documented instances of Obi contradicting or disavowing ADC's manifesto positions?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/join-us-in-ndc-buba-galadima-tells-atiku/",
+      "source": "Daily Trust",
+      "title": "Join us in NDC, Buba Galadima tells Atiku",
+      "summary": "A senior figure in the Nigerian Democratic Congress (NDC), Buba Galadima, has asked former Vice-President Atiku Abubakar to join the party, warning that he could be blamed if opposition forces fail to unite ahead of the 2027 general elections. Galadima said the success or failure of ongoing coalition efforts would depend largely on whether key [&#8230;]",
+      "published": "Tue, 05 May 2026 09:24:14 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:39.557138+00:00",
+      "hausa_translation": "Buba Galadima, babbar mutumi a Nigerian Democratic Congress (NDC), ya bukaci tsohon Vice-President Atiku Abubakar ya shiga jam'iyyar, yana gargaɗa cewa ana iya zargin shi idan ƙungiyoyin adawa ba su gida ba a gida kafin zaben 2027.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific guarantees or positions is NDC offering Atiku to motivate his defection, and who benefits most from his potential move?",
+        "Why is Galadima framing Atiku's non-cooperation as a personal responsibility for opposition failure rather than addressing structural challenges in coalition-building?",
+        "What is NDC's current polling strength and financial capacity compared to other opposition parties, and is this appeal driven by genuine coalition viability or desperation?",
+        "Are there undisclosed negotiations or financial incentives involved in this public appeal, and what do other major opposition figures think about this recruitment tactic?",
+        "How does this timing—well before 2027—reflect actual coalition progress versus performative political theater to appease party members?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/photos-umahi-signs-tinubus-reelection-forms/",
+      "source": "Daily Trust",
+      "title": "PHOTOS: Umahi signs Tinubu’s reelection forms",
+      "summary": "Minister of Works, David Umahi, has signed the nomination form of President Bola Tinubu for a second term, backing his 2027 re-election bid. In a statement by his media aide, Francis Nwaze, Umahi said the move reflects a commitment to consolidating the administration’s achievements. He highlighted ongoing road construction and rehabilitation projects as central to [&#8230;]",
+      "published": "Tue, 05 May 2026 10:00:50 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:31.784026+00:00",
+      "hausa_translation": "Jami'in Aiki, David Umahi, ya sanya hannu kan takarar sake zaben Shugaban Kasa Bola Tinubu don lokaci na biyu, yana goyon bayan niyyar sake zabe a 2027. A cikin sanarwar da sai Francis Nwaze, mai jita-jita, ya fito, Umahi ya ce wannan mataki yana nuni da alkar gamuwa da abubuwan da aka samu daga gwamnatin. Ya jera aiki na gina hanya da haɗin shirye-shirye na gaida kamar abin mahalarta.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why is a sitting cabinet minister publicly endorsing the president's re-election so early (2027), and does this signal internal party dynamics or coercion?",
+        "What are the specific road projects Umahi references, and have they faced delays, cost overruns, or corruption allegations that this endorsement might overshadow?",
+        "Who else has signed or will sign these forms, and are there patterns showing which officials are publicly backing Tinubu versus staying silent?",
+        "Does Umahi's endorsement correlate with budget allocations to his ministry or political positioning within the APC?",
+        "Are opposition voices or critical assessments of the administration's performance included in coverage, or is this narrative one-sided?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/just-in-jim-ovia-retires-as-zenith-bank-chairman/",
+      "source": "Daily Trust",
+      "title": "Jim Ovia retires as Zenith Bank chairman",
+      "summary": "Jim Ovia, founder of Zenith Bank, has retired as Chairman of the bank. Ovia&#8217;s retirement was announced at the bank’s 35th Annual General Meeting, on Tuesday. In a statement, the bank said Ovia stepped down after completing the mandatory 12-year service period as a non-executive director and chairman, in line with corporate governance guidelines set [&#8230;]",
+      "published": "Tue, 05 May 2026 10:31:43 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:24.728550+00:00",
+      "hausa_translation": "Jim Ovia ya jima a matsayinsa na Shugaban Zenith Bank bayan ya kammala lokacin da aka kayyade don tsere a hukumar, wato shekaru 12. An sanar da wannan a taron jama'a na banki na 35th.",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "verified",
+      "critical_questions": [
+        "Who is replacing Ovia as chairman, and what are their ties to major shareholders or regulatory bodies?",
+        "Does the 12-year mandatory period serve shareholders' interests or primarily protect long-tenured executives from accountability?",
+        "What is Ovia's remaining stake in Zenith Bank, and how might his retirement affect his financial interests or influence?",
+        "Are there any pending investigations, scandals, or governance issues that prompted this retirement timing?",
+        "What succession planning details were disclosed, and why was Ovia's departure framed as routine rather than strategically significant?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/ex-kano-deputy-gov-dumps-adc-four-weeks-after-defection/",
+      "source": "Daily Trust",
+      "title": "Ex-Kano deputy gov dumps ADC four weeks after defection",
+      "summary": "A former Deputy Governor of Kano State, Aminu Gwarzo, has resigned from the African Democratic Congress (ADC), four weeks after defecting to the party from the New Nigeria Peoples Party (NNPP). Gwarzo had joined the ADC on April 5 at a ceremony in Gwarzo Local Government Area, where he was formally presented with his membership [&#8230;]",
+      "published": "Tue, 05 May 2026 10:48:32 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:20.603852+00:00",
+      "hausa_translation": "Tsohon Mataimakin Gubar Kano, Aminu Gwarzo, ya bar African Democratic Congress (ADC) sau guda bayan cewa ya tafi gida daga New Nigeria Peoples Party (NNPP) jiya da jiya. Gwarzo ya shiga ADC a ranar 5 ga Afrilu a wata sare da aka yi a gida Gwarzo Local Government Area, inda aka gabatar da shi da membership.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why did Gwarzo defect to ADC only to resign four weeks later—what specific grievances or broken promises emerged so quickly?",
+        "Who benefits politically from this rapid defection-resignation cycle, and is this part of a larger opposition party fragmentation strategy?",
+        "What does Gwarzo's departure signal about ADC's internal stability and its ability to retain high-profile political figures?",
+        "Where is Gwarzo heading next, and does his movement suggest realignment patterns ahead of future elections?",
+        "Why did the article provide minimal detail on his stated reasons for departure—is this editorial choice masking substantive party conflicts?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTVZNWF4M0VUVkV6THJuTjlMblFnZHhOeVlLMFlpZ3VsTFZPcUhjazZIV2pXQXNPTlFZYjB3d2otaG9mTkJ6RnFoMUo2MHlBdkUxV08tM1hoalJmWVFmdjY3N1FiWHd4ZTNfbTJ5WkxmVVlHaFFJVVNqaVpQYXJqQ0NaQ2ZHX1c0dTVXQlgxck8yTUNTTDBSSXNNeXpfS2M0WFlDa3VjTzJDU2ZBejg2cUhGNHlJc1lGUWZmLVBER2t6dw?oc=5",
+      "source": "Sahara Reporters",
+      "title": "Ogun Police Command Detains Tenants, Set To Arraign Them Over Landlord Dispute Despite ‘No Evidence Of Assault’ - Sahara Reporters",
+      "summary": "Ogun Police Command Detains Tenants, Set To Arraign Them Over Landlord Dispute Despite ‘No Evidence Of Assault’&nbsp;&nbsp;Sahara Reporters",
+      "published": "Tue, 05 May 2026 07:36:44 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-05-05T10:56:15.791367+00:00",
+      "hausa_translation": "Jama'ar Polisi Ogun ta Kama Mahallai, Ƙaddamawa Don Gabatar da Su Kan Kaita Game da Landlord Duk da 'Babu Shaida na Warkewa'",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why is the police command proceeding with arraignment when journalists explicitly report 'no evidence of assault' - what political or financial pressure might be influencing this decision?",
+        "Whose interests are being served by detaining tenants in a landlord dispute - does the landlord have connections to police or local government?",
+        "Why have tenants' accounts and defenses been presented as missing from this narrative - what is their version of events?",
+        "What evidence actually exists beyond the landlord's complaint, and why hasn't the police provided a clear statement of charges?",
+        "Is this case part of a broader pattern of police bias favoring landlords or property owners over tenants in Ogun State?"
+      ]
+    },
     {
       "url": "https://businessday.ng/uncategorized/article/nigerian-oil-trader-faces-global-asset-freeze-after-40m-debt-default/",
       "source": "BusinessDay",
@@ -460,345 +800,6 @@
         "Why is this incident being reported now—what triggered the timing of this demand, and has there been escalating violence or is this routine reporting?",
         "Who benefits from framing this as a xenophobia issue rather than investigating potential criminal causes, and what is South Africa's actual response been?",
         "What are the voices and perspectives missing—have the families been interviewed, what do South African authorities claim happened, and are there counter-narratives?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM09FMVh4bnJvbmRJR2RmRFppakRxcTI2WEFZeHJUQmlJUHg0WkNBUnQzRjlEUE5yM0tvT2FPSXdmQ1AyZUdRUDI5T21jelphSllEVHB1MTVuR0lWcGlNS0RYSzAxY0xTZVhqcmxRamxIVy1CRkxhVTN4WXR5ZVB0THp2bmhyT3FGam95Z3pnMEhseVdOT3M4cDZ6X2RObWxILVF4YnF3?oc=5",
-      "source": "S2J News",
-      "title": "Israel release its Official \"Top Ten Prominent Antisemitic Influencers of 2025\" List - S2Jnews",
-      "summary": "Israel release its Official \"Top Ten Prominent Antisemitic Influencers of 2025\" List&nbsp;&nbsp;S2Jnews",
-      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:36:19.209147+00:00",
-      "hausa_translation": "Isra'ila ta fitar da Jerin 'Top Ten' na Manyan Masu KBar Da Yahudawa a 2025",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific evidence substantiates each person's inclusion, and who independently verified these claims?",
-        "Does Israel's government have institutional bias in defining 'antisemitic' content, and could this list conflate legitimate criticism with antisemitism?",
-        "Who decided the selection criteria and methodology, and were accused individuals given opportunity to respond?",
-        "What is the intended use of this list, and cui bono—who benefits from public identification and potential targeting of these influencers?",
-        "Why frame this as an 'official' list when no verifiable Israeli government source or press office appears to have published it?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWkhiZzVwWng2bEZWampQYmE3cjVwZnctN0ZCODUtR2JibWRsWGFoZy14Q3FFREYwa1VoT3VDTnl6Z1FpMEJaVFE0dFQ4dVA5QnJvYzI4ZkR6NVNfUzRZUlNIcmgtbTZBWXpid1dBR1VqanhlLTlLZVV4TEFncXA3YkxtNW85dw?oc=5",
-      "source": "S2J News",
-      "title": "Tehran Synagogue Destroyed in Overnight US-Israeli Strikes - S2Jnews",
-      "summary": "Tehran Synagogue Destroyed in Overnight US-Israeli Strikes&nbsp;&nbsp;S2Jnews",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:36:15.665542+00:00",
-      "hausa_translation": "Synagogue a Tehran an rushe a cikin bugun jiya na US-Israeli strikes. Jiya da jiya, jerin bugun jiya sun kawo kasu synagogue a cikin Tehran, babbar gida na Jews a Iran. Babu wata bayani dangane da rasuwar mutane ko damun da aka samu.",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "disputed",
-      "critical_questions": [
-        "What is the original source of this report and has it been independently verified by established news agencies?",
-        "Why would US-Israeli strikes target a religious structure rather than military sites, and what is the strategic justification claimed?",
-        "Who benefits from reporting/amplifying this specific incident, and does the framing use loaded language designed to inflame tensions?",
-        "Where are the missing voices - statements from US, Israeli, Iranian officials, and eyewitness accounts?",
-        "How does the timing of this report align with current geopolitical developments, and is the headline assertion based on evidence or assertion?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iTE9SX1dLWkZoTGpDaE90QU5BSEtkS0FqUEtTY3dVT2dBSm5wQUxuX0hBV3FjUkN1VTJLLU1SWm1KX0VRZnVmWTNkZ2VMLVdHa2dpYmRzZTRSVXR4N09PQTRQc1JlaHVZck9VWVpvZDJqQQ?oc=5",
-      "source": "S2J News",
-      "title": "‘Jesus Was the Outcast Immigrant on the Boat’ - S2Jnews",
-      "summary": "‘Jesus Was the Outcast Immigrant on the Boat’&nbsp;&nbsp;S2Jnews",
-      "published": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:36:11.753902+00:00",
-      "hausa_translation": "'Yesu shi ne bakin ciki mai ɓacin rai a cikin jirgin ruwa'",
-      "sentiment": "neutral",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the full context of this statement - is it from a religious sermon, political speech, or advocacy campaign, and who made this claim?",
-        "What specific modern immigration or refugee crisis is being referenced through this religious analogy, and whose political interests does this framing serve?",
-        "Are there missing voices from actual immigrants or religious scholars who could validate or challenge this theological interpretation?",
-        "What evidence supports the premise that Jesus's narrative specifically addresses current immigration debates versus being used selectively to support a predetermined position?",
-        "Who owns/operates S2J News and what is their editorial stance on immigration, religion, and social issues?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVo4YUZHX1h0ZVI1c2R2OHFJXzVZN3FvMEp4STh4bHVXQnBKVVNRV2w3dGtvckNzbThDSThFdkJaQUFFUkVleEU2NlI2RzJvRkw0RU1TbGVneTUxazI1cndzcmU5c09VelRrSEVXSUlxWXFidlZhbks1RF90MzlCbWg5bGNLUzBV?oc=5",
-      "source": "S2J News",
-      "title": "Acton gets First Women Only Flats – Silence from Kemi Badenoch - S2Jnews",
-      "summary": "Acton gets First Women Only Flats – Silence from Kemi Badenoch&nbsp;&nbsp;S2Jnews",
-      "published": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:36:08.492410+00:00",
-      "hausa_translation": "Acton ya sami Gidaje na Mata Kawai - Kemi Badenoch tsammani - S2Jnews",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Why is Kemi Badenoch's silence specifically highlighted, and what political narrative is being constructed by emphasizing her non-response?",
-        "What are the legal and equality implications of women-only housing, and does this conflict with UK equality law that the article doesn't address?",
-        "Who owns/developed these flats and what are their stated motivations - is this a safety initiative, market segmentation, or political positioning?",
-        "How does framing this as newsworthy 'silence' from a political figure differ from reporting the actual housing policy itself?",
-        "What is the source's editorial stance, and does the headline's structure suggest bias rather than neutral reporting of a housing development?"
-      ]
-    },
-    {
-      "url": "https://s2jnews.com/we-lost-tate-but-gained-sneako/?utm_source=rss&utm_medium=rss&utm_campaign=we-lost-tate-but-gained-sneako",
-      "source": "S2J News",
-      "title": "We Lost Tate but Gained Sneako",
-      "summary": "Reading Time:   5 minutesFrom Andrew Tate’s collapse to Sneako’s rise as a powerful Muslim voice, this article explores Sneako&#8217;s influence in an age where streamers shape young minds. Tell me &#8211; have you escaped the Matrix yet? If not, why not? Were you not explicitly instructed to unplug? Anyone can become an agent at any time &#8211; to [&#8230;]\nThe post We Lost Tate but Gained Sneak",
-      "published": "Sun, 26 Apr 2026 21:16:13 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:36:03.874000+00:00",
-      "hausa_translation": "Mun rasa Tate amma mun samu Sneako - Labarin da ke magana game da saukewa na Andrew Tate da tashin karfin Sneako a matsayin mai tasiri na Musulmi, jiya yana aiki da maɗauki masu iko. Batun jariyan watsa labari da tasirin sa a cikin zamani.",
-      "sentiment": "neutral",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific evidence supports the claim that Sneako is filling a 'void' left by Tate, and who benefits from this narrative shift?",
-        "How is 'Muslim voice' being defined here, and does Sneako's platform represent mainstream Islamic perspectives or a particular ideological subset?",
-        "What is the ownership structure and funding model of S2J News, and does it have documented biases toward or against online influencers?",
-        "The 'Matrix' and 'unplugging' language mirrors Tate's rhetoric—is this article adopting or critiquing that framing, and how does that affect its credibility?",
-        "Where are the voices of religious scholars, community leaders, or researchers who could contextualize Sneako's actual influence among youth audiences?"
-      ]
-    },
-    {
-      "url": "https://s2jnews.com/mainstream-media-ignores-how-golders-green-attacker-tried-to-kill-a-muslim-the-same-day/?utm_source=rss&utm_medium=rss&utm_campaign=mainstream-media-ignores-how-golders-green-attacker-tried-to-kill-a-muslim-the-same-day",
-      "source": "S2J News",
-      "title": "Mainstream Media Ignores How Golders Green Attacker Tried to Kill a Muslim the same day",
-      "summary": "Reading Time:   3 minutesOn Wednesday, the attack in Golders Green,&#160;London, which left two Jewish victims with serious stab wounds, was a horrific act of violence directed at civilian life. The victims were named as Shloime Rand, 34, and Moshe Shine, 76. Essa Suleiaman, a 45-year-old British-Somali has been arrested for the heinous act. Yesterday, a vigil for the [&#8230;]\nThe post Mainstream",
-      "published": "Fri, 01 May 2026 17:13:13 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:58.949670+00:00",
-      "hausa_translation": "Jaridar Cabowar: Kafofin Labari Suka Watse Yadda Mai Kai Harin Golders Green Ya Yiyar Kashe Musulmi A Ranar Daya",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the evidence that the attacker 'tried to kill a Muslim the same day' - is this a separate documented incident or speculation?",
-        "Why does the headline frame this as 'mainstream media ignores' rather than reporting the actual crime itself - who benefits from this framing?",
-        "What is the ownership and editorial stance of S2J News, and does this outlet have a pattern of selective reporting on religious violence?",
-        "Is the claim about a simultaneous Muslim victim verified by police statements or other independent sources, or is this an unsubstantiated assertion?",
-        "Why is the focus shifted to what media allegedly 'ignores' rather than on the documented victims and the arrested suspect's motivations?"
-      ]
-    },
-    {
-      "url": "https://s2jnews.com/chris-philps-proposed-5pillars-ban-under-the-guise-of-extremism-is-ludicrous-an-attempt-to-suppress-the-british-muslim-voice/?utm_source=rss&utm_medium=rss&utm_campaign=chris-philps-proposed-5pillars-ban-under-the-guise-of-extremism-is-ludicrous-an-attempt-to-suppress-the-british-muslim-voice",
-      "source": "S2J News",
-      "title": "Chris Philp’s Proposed 5Pillars Ban Under the Guise of Extremism Is Ludicrous & an Attempt to Suppress the British Muslim Voice",
-      "summary": "Reading Time:   3 minutesThe Conservative Shadow Home Secretary, Chris Philip, called for British Muslim organisations MEND, CAGE, and 5Pillars to be banned during a segment broadcast on GB News. His remarks came in the aftermath of a stabbing incident involving British Jewish victims in Golders Green, London, on Wednesday. This is not the first such instance. In 2023, [&#8230;]\nThe post Chris Phi",
-      "published": "Fri, 01 May 2026 20:19:15 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:55.010324+00:00",
-      "hausa_translation": "Chris Philp's Kundin Haramta 5Pillars A Gida Ƙarƙashin Jita-jita shine Banza & Yunwa don Damre Muryar Musulmi na Biritaniya",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific statements or activities from MEND, CAGE, and 5Pillars prompted this ban proposal, and has evidence been presented or are these organizations merely labeled 'extremist' without substantiation?",
-        "Why was this ban proposal announced immediately following a stabbing incident involving Jewish victims—is this timing designed to conflate these organizations with the incident without proven connection?",
-        "Who benefits from banning these Muslim advocacy organizations, and does this proposal align with broader patterns of disproportionate scrutiny of Muslim groups compared to other faith-based organizations?",
-        "What do representatives from MEND, CAGE, and 5Pillars say about these accusations, and why does the article not include their direct response or perspective?",
-        "Is the framing of 'suppressing British Muslim voice' in the headline an editorial characterization, and what would constitute legitimate grounds for organizational bans versus politically motivated restrictions?"
-      ]
-    },
-    {
-      "url": "https://s2jnews.com/paul-golding-proves-hes-just-an-arm-chair-warrior-after-cancelling-mohammed-hijab-fight/?utm_source=rss&utm_medium=rss&utm_campaign=paul-golding-proves-hes-just-an-arm-chair-warrior-after-cancelling-mohammed-hijab-fight",
-      "source": "S2J News",
-      "title": "Paul Golding Proves he’s Just an Arm Chair Warrior After Cancelling Mohammed Hijab Fight",
-      "summary": "Reading Time:   3 minutesI’ve got a game for you: spot the difference between far-right patriot Paul Golding and an armchair warrior. Trick question: there isn’t one. Pathetic Paul, a self-proclaimed ethno-supremacist, has cancelled the highly anticipated legal bout with Brother Hijab scheduled for 28th June. The event had required significant preparation, funding, and effort, and had already garn",
-      "published": "Fri, 01 May 2026 22:58:24 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:50.046462+00:00",
-      "hausa_translation": "Paul Golding ya nuna cewa shi ne kawai mai sharhi baki tsaye bayan dakatar da gaida da Mohammed Hijab",
-      "sentiment": "negative",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the verifiable evidence that the fight was actually scheduled and cancelled, versus unconfirmed reporting?",
-        "Why does the source use inflammatory labels like 'ethno-supremacist' and 'pathetic' rather than neutral descriptors, and what is the ownership/bias of S2J News?",
-        "Who benefits from publishing this story at this specific time, and what is the track record of this outlet for accuracy?",
-        "Are there competing accounts from Paul Golding or his representatives explaining the cancellation, and why are those absent?",
-        "What was the actual nature of this 'legal bout' - is this a documented legal proceeding or a promotional event, and why is this distinction unclear?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NMUl3VGFYZGRWSWlVOEprVFlQaUVvOTM3N1JjNTlqZnc0T1RaLWVGY01hTDRUZkxfUjRsdDN4aHBBel9QdlZfbl9SWUVuSDNUMjB2RVJ1a3JMT3p4VURpWlNIRXBjYm9fNTdBdWJvR2M1U09XR1VsR1pB?oc=5",
-      "source": "Daily Trust",
-      "title": "NDC leaders host Obi, Kwankwaso ahead defection - Daily Trust",
-      "summary": "NDC leaders host Obi, Kwankwaso ahead defection&nbsp;&nbsp;Daily Trust",
-      "published": "Sun, 03 May 2026 17:13:46 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:46.298846+00:00",
-      "hausa_translation": "Jagoran NDC suka karbi Obi, Kwankwaso kafin suka canza jam'iyyar",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific defection is being discussed - are Obi and Kwankwaso leaving their current parties to join NDC, and has this been officially confirmed?",
-        "What are the financial or political incentives being offered by NDC leadership, and who specifically benefits from this realignment?",
-        "Why is Daily Trust reporting this as imminent defection when these political figures may have multiple party affiliations or exploratory discussions underway?",
-        "What voices are missing - have Obi, Kwankwaso, or their current party leadership been given opportunity to respond or clarify their actual positions?",
-        "Is the timing of this report connected to upcoming elections or internal NDC power struggles, and does the headline's certainty match the actual evidence presented in the article?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNkQtcW9JNHNmWTBBUEhkdlF1cGtVOFI4VE1WLXBiMHVpOHQya0dIQkw1OGd4WG92Y0lzeUNTZzU2eTlNcVdaaEVjYTdERkdxM25FZjFGRmxXckpwcXE0WnVPV05oME1yd0ZQS1o2YTNCY1g3dVV4amgyeGRyTFEzZGF6Vmw3WHk0enhUWDVCakl5aEJ0UzFaZVc1cXZlb3ZtQ3l0R3FCZEt0V3B6dlJXXw?oc=5",
-      "source": "Daily Trust",
-      "title": "Sitting rep loses return ticket as Mangal’s son emerges APC consensus candidate - Daily Trust",
-      "summary": "Sitting rep loses return ticket as Mangal’s son emerges APC consensus candidate&nbsp;&nbsp;Daily Trust",
-      "published": "Fri, 01 May 2026 12:11:47 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:42.726461+00:00",
-      "hausa_translation": "Wakilin da ya zauna ya rasa tikiti na dawowa yayin da ɗa Mangal ya fito azaman zaɓaɓɓen APC",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific grounds or party rules justified removing the sitting representative's ticket, and who made this decision?",
-        "What is Mangal's political influence and financial interest in promoting his son as the consensus candidate?",
-        "Were other candidates given equal opportunity to contest, or was consensus predetermined through backroom arrangements?",
-        "How does this decision reflect internal APC dynamics and potential factional struggles within the party?",
-        "What is the sitting representative's response, and does he have legitimate grievances about due process?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/gombe-apc-defends-consensus-opens-door-for-direct-primaries/",
-      "source": "Daily Trust",
-      "title": "Gombe APC Defends Consensus, Opens Door for Direct Primaries",
-      "summary": "The Gombe State chapter of the All Progressives Congress (APC) has defended its adoption of a consensus arrangement for selecting candidates for elective positions in the state. The party had on Sunday unveiled consensus candidates for the governorship, National Assembly and State Assembly elections. However, reactions have trailed the exercise, with some aspirants, including Senator [&#8230;]",
-      "published": "Mon, 04 May 2026 20:11:23 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:38.725660+00:00",
-      "hausa_translation": "Gombe APC Karɓa Jiya, Buɗe Kofar Zaɓe Kai Tsaye",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Who specifically are the aspirants opposing this consensus arrangement, and what are their alternative proposals?",
-        "What criteria were used to select consensus candidates, and were all aspirants equally consulted or informed beforehand?",
-        "How does this consensus decision affect the democratic principles within APC, and what safeguards exist against elite gatekeeping?",
-        "What financial or political interests benefit most from the consensus arrangement versus direct primaries?",
-        "Will the party leadership enforce consensus decisions on dissenting aspirants, and what are the consequences for those who reject it?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/governor-uba-sani-reaffirms-commitment-to-press-freedom-as-kaduna-marks-world-press-freedom-day-2026/",
-      "source": "Daily Trust",
-      "title": "Governor Uba Sani Reaffirms Commitment to Press Freedom as Kaduna Marks World Press Freedom Day 2026",
-      "summary": "Kaduna State joins the global community in commemorating World Press Freedom Day 2026, themed “Shaping a Future at Peace,” with global reflections anchored by the UNESCO conference in Lusaka, Zambia. This year’s theme underscores the vital role of a free, responsible, and independent media in advancing peace, safeguarding human rights, and promoting sustainable development—particularly in [&#8230;",
-      "published": "Mon, 04 May 2026 20:19:39 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:35.747264+00:00",
-      "hausa_translation": "Gwamna Uba Sani ya sake nuna albaransu ga 'yancin jita-jita yayin da Kaduna ta yi gida ga Ranar Duniya ta 'Yancin Jita-jita 2026. Jihar Kaduna ta shiga tare da duniya wajen bikin ranar da aka sada \"Kafa Gida mai Zaman lafiya.\" Batu na shekara ta yi mamakin mahimancin jami'in labarai da ke da 'yanci, da mutuntaki, da 'yanci wajen inganta zaman lafiya, kulawa da hakkin ɗan adam, da ci gaban da ke durable.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific press freedom violations or restrictions has Kaduna State addressed or committed to addressing since the last World Press Freedom Day?",
-        "How does the governor's public reaffirmation of press freedom commitment align with documented media restrictions or press accessibility in Kaduna State during his tenure?",
-        "Why is the article truncated ('[&#8230;]'), and what substantive details about concrete actions or policies are missing from this statement?",
-        "Who are the media outlets or journalist representatives quoted or consulted for this story, and are independent voices included beyond government announcements?",
-        "Does this commemoration announcement include measurable accountability mechanisms, or is it primarily symbolic rhetoric without enforced commitments?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/bolaji-abdullahi-obi-knew-nothing-about-adc-manifesto-he-just-wanted-ticket/",
-      "source": "Daily Trust",
-      "title": "Bolaji Abdullahi: Obi knew nothing about ADC manifesto, he just wanted ticket",
-      "summary": "National Publicity Secretary of the African Democratic Congress (ADC), Bolaji Abdullahi, has criticised former presidential aspirant of the party, Peter Obi, alleging that he showed little interest in the party’s manifesto during his brief stay in the coalition plotting to unseat President Bola Tinubu. Daily Trust reports that on Sunday, Obi alongside Rabiu Kwankwaso, dumped [&#8230;]",
-      "published": "Mon, 04 May 2026 20:36:42 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:29.610727+00:00",
-      "hausa_translation": "Bolaji Abdullahi: Obi bai san abin da ADC ya yi, ya so kawai tikiti",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "disputed",
-      "critical_questions": [
-        "What specific evidence does Abdullahi present that Obi was unfamiliar with the manifesto, versus this being a partisan attack after Obi's departure?",
-        "Why is the ADC's national publicity secretary making these allegations now, and does he benefit politically from damaging Obi's reputation?",
-        "Where are Obi's or the ADC's counter-statements, and why does the article present only one side of this dispute?",
-        "What was the actual duration and nature of Obi's involvement with ADC, and does the characterization of 'brief stay' minimize or misrepresent his participation?",
-        "Are there documented instances of Obi engaging with the manifesto, or is this claim based solely on Abdullahi's assertions without corroborating evidence?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/man-city-rescue-point-at-everton-to-hand-arsenal-title-advantage/",
-      "source": "Daily Trust",
-      "title": "Man City rescue point at Everton to hand Arsenal title advantage",
-      "summary": "Jeremy Doku scored a dramatic last gasp equalizer to steal a point for Manchester City in their dramatic 3-3 draw with Everton in the EPL on Monday. The Bank Holday fixture’s outcome has handed the advantage back to Arsenal, with Man City expected to win the first of their two rescheduled matches to stay level [&#8230;]",
-      "published": "Mon, 04 May 2026 21:52:17 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:26.119964+00:00",
-      "hausa_translation": "Jeremy Doku ya yi wani baje-bajewa na karasa a gida domin Manchester City a cikin wasan 3-3 da Everton a EPL jiya. Sakamakon wasan Bank Holiday ya ba da ƙarƙashin gida wa Arsenal, kuma ana sa ran Manchester City za su naci daya daga cikin wasanninsu biyu da aka sake tsara domin su kasance cikin matakin iri daya.",
-      "sentiment": "neutral",
-      "region": "world",
-      "context_check": "verified",
-      "critical_questions": [
-        "How does this draw specifically alter the mathematical title race between Man City and Arsenal, and what are the remaining fixtures for each team?",
-        "Why does the source emphasize that City have 'two rescheduled matches' - are these postponed games a significant advantage or liability given fixture congestion?",
-        "Is the framing of this as 'handing Arsenal the advantage' accurate, or does it overlook City's historical ability to capitalize on games in hand?",
-        "What is the editorial angle of Daily Trust in emphasizing the dramatic nature of the goal - is this heightening drama or reflecting genuine significance to the title race?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalRPWGhpTTFFajdELUUyZk05bHkxdVFQeDJtay1aWEFjVjRuRDdDcmRWbzJJRjBHNm9wMzFMWWIwd1I2bXhaRWgwZGR6Y1QtaXR2ZTVEekdhdnh3SmhTNnB4ZUxqYmh0aXlxcDQwNmpKRTRnYmszSU1fbHotWHBEYUxkeTRRVzlnd3o3V3FkSXBETEZHeTJLRHNMeEFhbU1sNzljYjJCMzJXck80R3ZZV28yMFJBT3FkaVZYWUwwTW1VUQ?oc=5",
-      "source": "Sahara Reporters",
-      "title": "EXCLUSIVE: NSA Ribadu’s Office Detains Nigerian Forest Security Service Boss Osatimehin, Six Other Members In Abuja - Sahara Reporters",
-      "summary": "EXCLUSIVE: NSA Ribadu’s Office Detains Nigerian Forest Security Service Boss Osatimehin, Six Other Members In Abuja&nbsp;&nbsp;Sahara Reporters",
-      "published": "Fri, 01 May 2026 12:13:43 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:21.017668+00:00",
-      "hausa_translation": "EXCLUSIVE: Ofishin NSA Ribadu ya tashi Shugaban Nigerian Forest Security Service Osatimehin da wasu mutane shida a Abuja",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What are the specific charges or allegations against Osatimehin and the six detained members, and has due process been followed?",
-        "What is the timing of this detention relative to recent political developments or policy changes in Nigeria's security sector?",
-        "Are there documented reasons for the detention, or is this primarily reported through anonymous sources without official confirmation?",
-        "Who benefits from the removal of the Forest Security Service leadership, and what competing interests exist in Nigeria's security apparatus?",
-        "Have the detainees or their legal representatives been given opportunity to respond to allegations, and is this report based on official statements or leaked information?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTNOVnJMZ0VSdnBkTzZ3eVBfM3B2a0w1QnNxY05uRHFSZnBURl92azdLWTVfSVRva1piblE1UWVfNDlVWVRtV0RxeHF2NkZ0SzQ4elNONm9RYy1kMWF3R1hLTnNLak1WZUY2V1RWc3pEUF82VTZaWmpuMEpUaHQxdlZzOVBxc1BXc1lmUnBZQy1YY0J5amg1NGhrOEJtOVduX2N3UlhTalVZQnhzTm03T2tFRllkenpNbzVkQ2EtOA?oc=5",
-      "source": "Sahara Reporters",
-      "title": "Masked Gunmen Invade Edo Community, Chase Women, Children, Other Residents Into Bushes Amid Police Inaction - Sahara Reporters",
-      "summary": "Masked Gunmen Invade Edo Community, Chase Women, Children, Other Residents Into Bushes Amid Police Inaction&nbsp;&nbsp;Sahara Reporters",
-      "published": "Sat, 02 May 2026 14:29:18 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:17.682880+00:00",
-      "hausa_translation": "Masu bindiga da fuska rufe suka mamaye gida a Edo, suka kore mata, yara, da sauran jama'a zuwa daji yayin da 'yan sanda suke shiru",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific evidence exists of 'police inaction' - were reports filed, and what official responses were documented or denied?",
-        "Who are these 'masked gunmen' and what are their suspected motives (banditry, communal conflict, kidnapping, or political)?",
-        "Why does Sahara Reporters' framing emphasize police inaction without providing statements from police authorities defending or explaining their response?",
-        "What is the verified casualty/injury count, property damage, and number of missing persons versus the article's sensationalized headline?",
-        "Are there documented patterns of similar incidents in this specific Edo community, or is this framed as isolated to amplify urgency?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOemstTWsybTJaNHNsN2pRR3l6NnlWeFpzLVAtcmZmRERMSnF4bTk1QWo0NXI1VGZYb1lraFl1b2lqN0pZODVxZnJ1ODczT3NoSHBPWEtUc24xdG02TXFfU1hzaDZOY3lmaktNdnJoX0c5Ui15ekswSjdPY1FlQTZEcWY0LV8xVnVYeEhJS1c0cDRVZ1FDNkNub0lvUVNCMTFaN0xIc1JQdjdYa2p3bVJjSWYyZXJ6a2RsRmc?oc=5",
-      "source": "Sahara Reporters",
-      "title": "ASPs, Others Complain As Lagos Police Command Collects N5,000 Per Officer For Bio-Data Forms - Sahara Reporters",
-      "summary": "ASPs, Others Complain As Lagos Police Command Collects N5,000 Per Officer For Bio-Data Forms&nbsp;&nbsp;Sahara Reporters",
-      "published": "Sun, 03 May 2026 17:16:29 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-05-04T22:35:13.523521+00:00",
-      "hausa_translation": "ASP-ASP da sauran jama'a suna koriya kamar yadda Polisu Lagos ke karbar Naira dubu biyar ga kowane jami'i don fomu bio-data",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Is this collection authorized by official police policy or are individual commanders extorting officers under the guise of administrative fees?",
-        "Who benefits financially from these N5,000 collections and where does the money actually go - to legitimate police operations or personal accounts?",
-        "Why are junior officers (ASPs) being targeted for payment when bio-data forms should be standard administrative procedure covered by government budgets?",
-        "Have affected officers filed formal complaints with the Force Headquarters or anti-corruption agencies, and what response has been documented?",
-        "Are similar unauthorized collections happening in other police commands, suggesting a systemic problem rather than isolated Lagos incident?"
       ]
     }
   ]
