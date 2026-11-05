@@ -1,804 +1,805 @@
 {
-  "generated_at": "2026-11-05T00:07:03.168275+00:00",
+  "generated_at": "2026-11-05T12:55:38.794944+00:00",
   "count": 40,
   "articles": [
     {
-      "url": "https://tribuneonlineng.com/video-mc-oluomo-claims-he-is-american-citizen-can-enter-us-anytime/",
-      "source": "Tribune",
-      "title": "VIDEO: MC Oluomo claims he is American citizen, can enter US anytime",
-      "summary": "The president of the National Union of Road Transport Workers (NURTW), Musiliu Akinsanya, popularly known as MC Oluomo, has claimed that his American citizenship gives him the right to enter and stay in the United States whenever he wishes. MC Oluomo made this known recently while speaking at a campaign rally organised in support of [&#8230;]\nThe post VIDEO: MC Oluomo claims he is American citizen",
-      "published": "Wed, 04 Nov 2026 22:09:34 +0000",
+      "url": "https://leadership.ng/niso-blames-gas-shortage-low-water-levels-for-drop-in-power-generation/",
+      "source": "Leadership",
+      "title": "NISO Blames Gas Shortage, Low Water Levels for Drop in Power Generation",
+      "summary": "The Nigerian Independent System Operator (NISO) has attributed the current decline in electricity generation on the national grid to gas supply constraints and reduced output from hydroelectric power stations. NISO, on Thursday, said limited gas availability had prevented some thermal power stations from operating at their available capacity, while reduced water inflows into reservoirs had [&#8230",
+      "published": "Thu, 05 Nov 2026 12:52:51 +0000",
       "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:07:00.264530+00:00",
-      "hausa_translation": "Shugaban tarayyar mai tashin hankali na Jirgin kasa (NURTW), Musiliu Akinsanya, wanda aka kira MC Oluomo, ya yi ikirarin cewa jinsiyarsa ta Amurka ya ba shi karfi na shiga da zama a Amurka kowane lokacin da yake so. MC Oluomo ya bayyana wannan jiya yayin jawaban a gogon neman goyon bayan.",
+      "fetched_at": "2026-11-05T12:55:36.304854+00:00",
+      "hausa_translation": "NISO ya bugi rashin iskar gas da ƙarancin ruwa a cikin karfin wuta",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific gas production and supply data supports NISO's claims, and why weren't concrete figures provided?",
+        "Who benefits from attributing power failures to external factors (gas/water) rather than operational or management issues?",
+        "What measures has NISO taken to diversify energy sources, and why is the narrative focused only on constraints rather than solutions?",
+        "Are water level reductions due to climate factors or inadequate reservoir management, and what's the evidence?",
+        "Why does NISO's statement lack commitments or timelines for addressing these systemic issues?"
+      ]
+    },
+    {
+      "url": "https://leadership.ng/cross-river-ndc-plays-down-attack-on-obi-after-governors-apology/",
+      "source": "Leadership",
+      "title": "Cross River NDC Plays Down Attack On Obi After Governor’s Apology",
+      "summary": "Reactions have continued to trail Wednesday&#8217;s attack on the convoy of the presidential candidate of the Nigerian Democratic Congress, NDC, Mr. Peter Obi, at Watt Market Roundabout in Calabar, with supporters demanding a wider dragnet and speedy prosecution, while the party leadership said it deliberately played down the incident after an apology from the governor. [&#8230;]",
+      "published": "Thu, 05 Nov 2026 12:54:12 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:55:33.293751+00:00",
+      "hausa_translation": "Jam'iyyar NDC ta Cross River ta Rage Damun Harin Obi Bayan Apolo mai Sorryai",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why did the NDC leadership choose to 'play down' a violent attack on their presidential candidate rather than demand accountability?",
+        "What specific terms were in the governor's apology, and does it constitute sufficient accountability for a security breach?",
+        "Whose interests are served by downplaying the incident—the party leadership, the governor, or political reconciliation efforts?",
+        "What security lapses allowed the attack to occur, and have those responsible been identified or sanctioned?",
+        "Why are supporter demands for 'wider dragnet and speedy prosecution' in tension with the party leadership's apparent acceptance of the apology?"
+      ]
+    },
+    {
+      "url": "https://businessday.ng/politics/article/court-orders-inec-national-assembly-to-produce-documents-in-suit-challenging-chindas-candidacy/",
+      "source": "BusinessDay",
+      "title": "Court orders INEC, National Assembly to produce documents in suit challenging Chinda’s candidacy",
+      "summary": "A Federal High Court sitting in Port Harcourt has ordered the Independent National Electoral Commission (INEC), the Speaker of the\nread more Court orders INEC, National Assembly to produce documents in suit challenging Chinda&#8217;s candidacy",
+      "published": "Thu, 05 Nov 2026 12:41:55 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:56.975060+00:00",
+      "hausa_translation": "Kotun ta umurta INEC, Majalisar Wakilai su kawo da takaitaccen bayanan a cikin kara da ke tacewa candaryar Chinda",
       "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who specifically filed this suit challenging Chinda's candidacy and what are their political affiliations or financial interests?",
+        "What grounds are being used to challenge the candidacy - are these procedural technicalities or substantive disqualifications under electoral law?",
+        "Why is the court ordering document production at this stage, and could the timing of this legal action influence ongoing or upcoming electoral processes?",
+        "What documents are being demanded and from whom - does the burden of proof fall fairly on INEC and the National Assembly or the challenger?",
+        "Has similar legal action been taken against other candidates, and if not, what makes this case distinct or selective in application?"
+      ]
+    },
+    {
+      "url": "https://businessday.ng/news/article/fct-high-court-clears-5625-cases-as-new-filings-rise-to-6727/",
+      "source": "BusinessDay",
+      "title": "FCT High Court clears 5,625 cases as new filings rise to 6,727",
+      "summary": "The Federal Capital Territory (FCT) High Court received 6,727 new cases and disposed of 5,625 in the 2025/2026 legal year,\nread more FCT High Court clears 5,625 cases as new filings rise to 6,727",
+      "published": "Thu, 05 Nov 2026 12:44:35 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:53.379685+00:00",
+      "hausa_translation": "Kotun Gida ta FCT ta share kasuwa 5,625 yayin da sabuwar kasuwa suka kai 6,727",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the case clearance rate trend - is 5,625 disposals against 6,727 filings an improvement or deterioration compared to previous years?",
+        "Why does the court have a backlog growing by 1,102 cases annually - what are the root causes and resource constraints?",
+        "Which case categories dominate the filings - are certain litigants or sectors disproportionately using the court?",
+        "Who benefits from case delays - do legal practitioners, court officials, or specific interest groups profit from prolonged litigation?",
+        "What is the average case resolution time and how does it affect access to justice for ordinary citizens versus wealthy litigants?"
+      ]
+    },
+    {
+      "url": "https://businessday.ng/politics/article/2027-wike-projects-rivers-support-for-tinubu-over-fulfilled-promises/",
+      "source": "BusinessDay",
+      "title": "2027: Wike projects Rivers support for Tinubu over fulfilled promises",
+      "summary": "Nyesom Wike, Minister of the Federal Capital Territory, has expressed confidence that Rivers State voters will support President Bola Tinubu&#8217;s\nread more 2027: Wike projects Rivers support for Tinubu over fulfilled promises",
+      "published": "Thu, 05 Nov 2026 12:47:42 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:49.987312+00:00",
+      "hausa_translation": "2027: Wike yana hasashen goyon Tinubu daga Rivers saboda gida da aka cika",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific promises has Tinubu fulfilled in Rivers State that Wike is referencing, and can these be independently verified?",
+        "Does Wike's projection reflect genuine grassroots support in Rivers, or is this an attempt to consolidate political control after his contentious relationship with the previous Rivers governor?",
+        "Why would Wike, a political figure with documented rivalry with Rivers State's governor, be the primary voice articulating state-level electoral sentiment rather than local officials?",
+        "What financial or political benefits might Wike gain from positioning himself as instrumental in delivering Rivers votes to Tinubu in 2027?",
+        "Are there dissenting voices or opposition perspectives from Rivers State residents and opposition parties that are absent from this reporting?"
+      ]
+    },
+    {
+      "url": "https://businessday.ng/news/article/africas-102bn-trade-deficit-with-china-exposes-industrial-weakness-says-finance-expert/",
+      "source": "BusinessDay",
+      "title": "Africa’s $102bn trade deficit with China exposes industrial weakness, says Finance Expert",
+      "summary": "Brian Muloni, a senior Finance Expert has warned that the widening dependence on imported machinery, electronics and industrial equipment is\nread more Africa’s $102bn trade deficit with China exposes industrial weakness, says Finance Expert",
+      "published": "Thu, 05 Nov 2026 12:49:04 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:46.585408+00:00",
+      "hausa_translation": "Kasua Afrika na dala 102 bil tare da kasuwa China ya fallasa karfin masana'antu, ce Jagorar Mali",
+      "sentiment": "negative",
+      "region": "africa",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific evidence supports the $102bn deficit figure, and has this been independently verified by multiple sources?",
+        "Who benefits from this trade arrangement - which African businesses, Chinese corporations, and intermediaries profit most?",
+        "What alternative solutions does Muloni propose, and does he have financial interests in competing industries or import substitution strategies?",
+        "Are African nations' imports from China driven by lack of alternatives or by genuine price/quality advantages, and what do African manufacturers say about their competitiveness?",
+        "Why does BusinessDay amplify this expert's warning without presenting counterarguments from trade officials, Chinese partners, or economists who view the relationship differently?"
+      ]
+    },
+    {
+      "url": "https://www.channelstv.com/2026/11/05/edo-moves-to-launch-state-owned-airline-as-okpebholo-signs-mou/",
+      "source": "Channels",
+      "title": "Edo Moves To Launch State-Owned Airline As Okpebholo Signs MoU",
+      "summary": "Secretary to the State Government (SSG), Umar Musa Ikhilor, Esq., said the agreement followed a fact-finding trip to China by a seven-man delegation on September 14, 2026, approved by the governor to meet potential technical and operational partners for the proposed airline.\nThe post Edo Moves To Launch State-Owned Airline As Okpebholo Signs MoU appeared first on Channels Television.",
+      "published": "Thu, 05 Nov 2026 11:52:55 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:41.474108+00:00",
+      "hausa_translation": "Edo ya fara shirye-shiryen kaddamar da jirgin sama na jihar kasuwa. Okpebholo ya sanya hannu kan MoU. Sakataren jihar ya ce yarjejeniyar ta biyo da balagi zuwa China da jama'a bakwai a ranar 14 ga Satumba 2026 domin neman abokan aiki a gida da aiki na jirgin sama.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What are the specific financial commitments and funding sources for this airline venture, and who ultimately bears the risk if it fails?",
+        "Why was a delegation sent to China specifically for aviation partners rather than exploring existing Nigerian or African aviation expertise and infrastructure?",
+        "What is the timeline, operational plan, and evidence of market demand for another state-owned airline given the poor track record of similar ventures in Nigeria?",
+        "Who are the Chinese partners, what are their qualifications, and has there been transparent bidding or competitive selection process?",
+        "How does this initiative align with federal aviation regulations, and has the National Civil Aviation Authority been consulted?"
+      ]
+    },
+    {
+      "url": "https://www.channelstv.com/2026/11/05/katsina-targets-2-7-million-children-in-fresh-polio-vaccination-drive/",
+      "source": "Channels",
+      "title": "Katsina Targets 2.7 Million Children In Fresh Polio Vaccination Drive",
+      "summary": "The vaccination exercise is scheduled to commence on Saturday, November 7, 2026, across 28 Local Government Areas, covering 299 wards and over 17,000 settlements.\nThe post Katsina Targets 2.7 Million Children In Fresh Polio Vaccination Drive appeared first on Channels Television.",
+      "published": "Thu, 05 Nov 2026 12:00:53 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:37.010034+00:00",
+      "hausa_translation": "Katsina ta yi burin shan allurar polio ga yara miliyan 2.7 a sabuwar gama-gamar likita. Aiki ɗin likita zai fara ranar Asabar, Nuwambar 7, 2026, a gida 28 na gida-gida, wanda ya ɗauki wards 299 da gida sama da 17,000.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the vaccination coverage rate in Katsina, and why is a fresh drive necessary—are previous campaigns failing to reach children?",
+        "Who is funding this 2.7 million-child vaccination exercise, and are there transparency mechanisms to track resource allocation?",
+        "What are the specific polio outbreak triggers or disease surveillance data prompting this November 2026 campaign timing?",
+        "How are community leaders, local healthcare workers, and parents being engaged, or does the announcement reflect top-down planning without grassroots input?",
+        "What accountability measures exist if vaccination targets are missed, and who bears responsibility for health outcomes in the 17,000 settlements?"
+      ]
+    },
+    {
+      "url": "https://www.channelstv.com/2026/11/05/politics-is-expensive-all-over-the-world-wike-defends-high-billboard-prices-in-abuja/",
+      "source": "Channels",
+      "title": "Politics Is Expensive All Over The World, Wike Defends High Billboard Prices In Abuja",
+      "summary": "The Minister spoke to journalists during his monthly media chat in Port Harcourt on Thursday, following outcry by several opposition parties over access to communication media through which voters can be reached, as they jostle for votes.\nThe post Politics Is Expensive All Over The World, Wike Defends High Billboard Prices In Abuja appeared first on Channels Television.",
+      "published": "Thu, 05 Nov 2026 12:32:12 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:32.420373+00:00",
+      "hausa_translation": "Siyasa Ta Kasua A Duk Kasua Cikin Duniya, Wike Ya Karbar Tsadar Billboard Masu Tsada A Abuja",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who benefits financially from maintaining high billboard prices, and does Wike have financial interests in advertising companies operating in Abuja?",
+        "Why are opposition parties specifically citing billboard access as a barrier, and what evidence exists of discriminatory pricing between ruling and opposition parties?",
+        "What concrete data supports Wike's claim that 'politics is expensive all over the world' - is this a deflection from addressing legitimate concerns about unequal campaign access?",
+        "Why has this defense only emerged after 'outcry by several opposition parties' - what triggered Wike to address this now, and were there prior complaints?",
+        "Are there alternative, affordable communication channels that the government actively promotes for opposition parties, or does the expense create de facto suppression of political competition?"
+      ]
+    },
+    {
+      "url": "https://www.channelstv.com/2026/11/05/emirates-profits-slump-66-on-war-fuel-costs/",
+      "source": "Channels",
+      "title": "Emirates Profits Slump 66% On War, Fuel Costs",
+      "summary": "Dubai airport was repeatedly targeted as the United Arab Emirates bore the brunt of Iranian drone and missile attacks in the early part of the war, causing havoc with flights and putting off visitors to Dubai.\nThe post Emirates Profits Slump 66% On War, Fuel Costs appeared first on Channels Television.",
+      "published": "Thu, 05 Nov 2026 12:48:52 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:28.616317+00:00",
+      "hausa_translation": "Emirates Sakamakon Kasua Ya Fadi 66% Saboda Yaƙi, Kudin Mai",
+      "sentiment": "negative",
+      "region": "world",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific evidence supports the 66% profit decline attribution to Iranian attacks versus global fuel price increases that affected all airlines?",
+        "Why does the article focus on Dubai airport disruptions without quantifying actual financial impact or comparing losses to other Middle Eastern airlines?",
+        "Who benefits from emphasizing Iranian military action—does this framing serve UAE geopolitical narratives or business interests?",
+        "Are other contributing factors to Emirates' losses (pandemic recovery, route changes, competition) adequately addressed or obscured by the war narrative?",
+        "What is the source and verification status of these profit figures, and has Emirates officially attributed losses to these specific causes?"
+      ]
+    },
+    {
+      "url": "https://www.vanguardngr.com/2026/11/2027-opposition-coalition-demands-audit-of-voter-register/",
+      "source": "Vanguard",
+      "title": "2027: Opposition coalition demands audit of voter register",
+      "summary": "Nigeria's opposition alliance, the Coalition for Democracy, formerly known as G100, has accused the ruling All Progressives Congress APC of rigging the rules before the votes, saying Nigeria cannot have free elections without free political competition.\nThe post 2027: Opposition coalition demands audit of voter register appeared first on Vanguard News.",
+      "published": "Thu, 05 Nov 2026 12:37:40 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:24.338092+00:00",
+      "hausa_translation": "2027: Coalition na Opposition ta Bukaci Bincike na Jerin Masu Jefa Kuri - Kasuwar Gaida na Nigeria ya lika'a babbar kawance ta mulki, APC, da aikata zalunci kafin kuri, kuma ta ce ba za a iya samun zaben jiya ba ba tare da kyakkyawan gidajen waje ba.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific evidence or documentation does the Coalition provide to support claims of APC 'rigging the rules', and why is this framing used before ballots are cast rather than after results?",
+        "Which stakeholders - particularly election observers, civil society organizations, and INEC officials - have independently verified these audit concerns, and what do they say?",
+        "How does the opposition coalition's timing of this demand relate to their own electoral strategy and polling performance leading into 2027?",
+        "What concrete mechanisms for 'free political competition' is the coalition proposing, and are these demands equally applicable to all parties including themselves?",
+        "Why does the article lack statements from the APC, INEC, or independent election monitoring bodies, and how does this editorial choice affect the narrative?"
+      ]
+    },
+    {
+      "url": "https://www.vanguardngr.com/2026/11/i-now-take-english-classes-to-speak-fluently-mc-oluomo/",
+      "source": "Vanguard",
+      "title": "I now take English classes to speak fluently – MC Oluomo",
+      "summary": "“Neither of us speaks English fluently, so I am taking classes to improve. I travel around the world. I am a citizen of America,” he said.\nThe post I now take English classes to speak fluently &#8211; MC Oluomo appeared first on Vanguard News.",
+      "published": "Thu, 05 Nov 2026 12:40:31 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:19.524887+00:00",
+      "hausa_translation": "Yanzu ina ɗaukar ajiyar Turanci don magana sannu-sannu - MC Oluomo. 'Ba mu daya-daya ba muke magana Turanci da kyau, saboda haka ina ɗaukar ajiyar lissafi don haɓaka. Ina tafiya a gida da gida. Ni dan Amurka ne,' ya ce.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What prompted MC Oluomo to publicly announce his English lessons - is this addressing prior criticism about his language skills?",
+        "Why emphasize American citizenship in the same statement about English fluency, and does this signal rebranding or deflection from other controversies?",
+        "Who benefits from this narrative, and is this a preemptive move before a significant public appearance or position?",
+        "What specific evidence exists that he is actually taking formal English classes, or is this an assertion without verification?",
+        "Why is this personal development story newsworthy enough for major publication, and who provided the quote to media?"
+      ]
+    },
+    {
+      "url": "https://www.vanguardngr.com/2026/11/troops-rescue-nine-kidnapped-victims-recover-108-livestock-in-kebbi/",
+      "source": "Vanguard",
+      "title": "Troops rescue nine kidnapped victims, recover 108 livestock in Kebbi",
+      "summary": "By Kingsley Omonobi Troops of Operation Fansan Yamma have rescued nine kidnapped victims and recovered 108 livestock during security operations in Danko general area and Sabon Tunga and Binoni villages in Danko-Wasagu Local Government Area of Kebbi State. The Acting Military Information Officer, Captain Tamuno Siniveie, disclosed this in a statement on Thursday. He said [&#8230;]\nThe post Troops r",
+      "published": "Thu, 05 Nov 2026 12:44:43 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:14.910821+00:00",
+      "hausa_translation": "Sojoji sun ceza talibi tasa tari da gida, suka samo shuka 108 a Kebbi. Sojoji na Operation Fansan Yamma sun ceza talibai tasa tari da gida da kuma suka samo shuka 108 a lokacin aiki a yankunan Danko da kuma gida Sabon Tunga da Binoni a Danko-Wasagu Local Government Area na Kebbi State.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the broader security situation in Kebbi State, and how frequent are kidnappings and livestock thefts in this region?",
+        "Who conducted the kidnappings and livestock raids - are they identified militant groups, bandits, or criminal networks, and what are their motives?",
+        "Why does the military statement lack details about the condition of rescued victims, their identities, and whether families have been reunited?",
+        "How many total kidnappings and livestock thefts have occurred in this LGA recently, and does this rescue represent significant progress or minimal impact?",
+        "What is the military's operational strategy beyond rescue missions - are there preventive measures to stop future incidents in these communities?"
+      ]
+    },
+    {
+      "url": "https://www.vanguardngr.com/2026/11/lascopa-recovers-n759m-for-consumers-in-six-years/",
+      "source": "Vanguard",
+      "title": "LASCOPA recovers N759m for consumers in six years",
+      "summary": "By Olasunkanmi Akoni The Lagos State Consumer Protection Agency (LASCOPA) says it has recovered N759.35 million and $14,901.80 in billing adjustments and direct refunds for aggrieved consumers over the past six years. The agency also disclosed that it had resolved 10,720 consumer complaints out of 11,120 received across various sectors, including banking, aviation, real estate, [&#8230;]\nThe post ",
+      "published": "Thu, 05 Nov 2026 12:49:33 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:10.441097+00:00",
+      "hausa_translation": "Hukumar Kariyar Masu Amfani ta Lagos (LASCOPA) ta bayyana cewa ta dawo da N759.35 miliyan da $14,901.80 a cikin gyare-gyaren bilashi da jagorar kuɗi ga masu amfani da aka laiti a shekaru shida da suka wuce. Hukumar ta kuma bayyana cewa ta warware arizonin masu amfani 10,720 daga cikin 10,120 da aka samu a fannoni daban-daban, ciki har da banki, jirgin sama, gida, da sauransu.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What percentage of the N759.35m recovered represents actual consumer compensation versus administrative adjustments or partial resolutions?",
+        "Why were 400 complaints (out of 11,120) not resolved, and what sectors or consumer types do these unresolved cases represent?",
+        "Does LASCOPA's budget and staffing allocation receive proportional government funding relative to the value recovered, or is the agency under-resourced?",
+        "Are there systemic patterns in which industries generate complaints, and has LASCOPA taken regulatory action against repeat offenders?",
+        "How does this recovery rate compare to similar consumer protection agencies in neighboring West African countries, and is this performance benchmarked publicly?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ld0d5eWZOVEFFYklaM0xRWnRraXZxRjE2bTFVbE9ZUTJpUzE2Smtsby0wUkh5QkFVc1RqQXJyVlVuSXJiVk02TmVmamRpQV91c19VRTJuUHNzaF9oWkZZek5CcDhMWVFFWlcyaQ?oc=5",
+      "source": "Punch",
+      "title": "Securing Nigeria’s solid minerals wealth - Punch Newspapers",
+      "summary": "Securing Nigeria’s solid minerals wealth&nbsp;&nbsp;Punch Newspapers",
+      "published": "Tue, 03 Nov 2026 23:44:08 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:04.617585+00:00",
+      "hausa_translation": "Kariyar ilimin abin ma'adin Nigeria - Punch Newspapers. Jigon labarin ya nuna game da kariyar kayoyin abin ma'adinai na kasar Nigeria kuma yaya ake iya tabbatar da su.",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who specifically benefits from Nigeria's solid minerals extraction and under what ownership structure - foreign investors, domestic corporations, or communities where mining occurs?",
+        "What concrete security measures or policy changes does the article propose, and who funded or commissioned this narrative?",
+        "Are the voices of local mining communities, environmental groups, and artisanal miners included, or does this reflect only government and corporate interests?",
+        "What is the timing of this article - does it coincide with pending mining legislation, licensing deals, or international negotiations?",
+        "What evidence of current insecurity or threats to mineral wealth is presented versus assertions, and from what verified sources?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWQlpZMVFydlZ3c3Vtd1g2MEhGRElwTlE1MndsTWtMREtfcDdEQWhoWmZSOV93TnBMOTlUeFowaGFMcEs2MkU0RFhTWkQ0N1J1UC1iWENNUllCRzRlYUlKMUdzT0JyMl95dEhmRmt2UFhCTHZTWUIxenZ2V3M?oc=5",
+      "source": "Punch",
+      "title": "2027: Tinubu’s Umrah trip not for Northern votes — Aide - Punch Newspapers",
+      "summary": "2027: Tinubu’s Umrah trip not for Northern votes — Aide&nbsp;&nbsp;Punch Newspapers",
+      "published": "Tue, 03 Nov 2026 05:23:54 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:54:00.537284+00:00",
+      "hausa_translation": "2027: Tinubu's Umrah trip ba ne domin samun kuri'a daga Arewa — Aide",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why is the presidential aide compelled to issue a defensive denial about the trip's political motives, and what specific allegations prompted this statement?",
+        "Who benefits politically from Tinubu visiting Northern Nigeria versus undertaking religious pilgrimage, and what evidence exists either way?",
+        "What is the timing significance of this statement relative to 2027 election positioning, and why is this clarification being made now?",
+        "What financial records or itinerary details are available to independently verify whether the Umrah trip prioritizes religious observance over political campaigning?",
+        "Whose voices are missing - did Northern stakeholders, opposition parties, or civil society organizations raise these concerns that prompted the aide's response?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZDFhUWRFRGFyT1FWeWJWWUp4dUJvMmp4WjB6UC1XU05vNWdObTZvMkVlVjJZWmNGMkgwZFRhZl9OZXpfLTZ2RVFWVXZ4OUR4bzQ3M3c5UDNjWnFRaXp3UmZ1aVVZU3NhTXFFbXE5ZWh1bmxraXkwVl9iS1BsQ0QxbA?oc=5",
+      "source": "Punch",
+      "title": "Google turns off AI tools by default for school pupils - Punch Newspapers",
+      "summary": "Google turns off AI tools by default for school pupils&nbsp;&nbsp;Punch Newspapers",
+      "published": "Wed, 04 Nov 2026 20:35:48 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:57.161081+00:00",
+      "hausa_translation": "Google ya kashe kayan AI ta tsakiya don ƴan makaranta - Punch Newspapers",
+      "sentiment": "neutral",
+      "region": "world",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific AI tools are being disabled and what is Google's stated rationale for this decision?",
+        "How does this policy differ across regions and is it being applied uniformly to all educational institutions globally?",
+        "Who advocated for this change - was it educators, parents, regulators, or Google's own compliance team?",
+        "What alternative AI features remain enabled and does this selective disabling suggest which tools Google considers more 'risky' for minors?",
+        "How will this impact the digital literacy and competitiveness of student cohorts compared to regions where AI tools remain accessible in schools?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSFBsNGNIRlpQbmJBOGdtTEJ5ejNHbkJhM3hiQUdSTHNCQmszaF9YYWJ6bUh2bWcyRHg3czd2VTFTalB0WlpoNGhXQ2JTZjNGY1dIcWh3RUE4SEczRjNUVElHS2xmdU9NSVE4cXhKeE5FVU5ycEJPSURDRDhlS1U3c1ltMA?oc=5",
+      "source": "Punch",
+      "title": "Natasha defends cash grants, OK Movement seeks EFCC probe - Punch Newspapers",
+      "summary": "Natasha defends cash grants, OK Movement seeks EFCC probe&nbsp;&nbsp;Punch Newspapers",
+      "published": "Wed, 04 Nov 2026 23:08:05 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:54.148915+00:00",
+      "hausa_translation": "Natasha yana karbar kudin karantawa, OK Movement nakan neman EFCC bincike",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific cash grants is Natasha defending, and what is the source and justification for these disbursements?",
+        "Who benefits financially from these grants, and does the OK Movement have documented evidence of impropriety or are these allegations?",
+        "Why is EFCC involvement being sought at this particular moment - is there new evidence or is this politically motivated?",
+        "What is the OK Movement's track record and funding source, and do they have standing to make such accusations?",
+        "What documentation exists showing the grants were improperly distributed versus legitimately allocated?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/video-brazilian-referee-issues-51-red-cards-after-40-minute-football-brawl/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "VIDEO: Brazilian referee issues 51 red cards after 40-minute football brawl",
+      "summary": "A referee in Brazil has reportedly issued 51 red cards after a mass 40-minute brawl erupted during a youth football match between Uberlandia and Mamore.\n\nRead More: https://punchng.com/video-brazilian-referee-issues-51-red-cards-after-40-minute-football-brawl/",
+      "published": "Thu, 05 Nov 2026 13:36:04 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:50.580675+00:00",
+      "hausa_translation": "Wani mai tsaron wasa a Brazil ya ba da kardi masu launin ja 51 bayan yaƙi mai tsanani na mintuna 40 ya fito a wasan ƙafa na matasa tsakanin ƙungiyoyi Uberlandia da Mamore.",
+      "sentiment": "negative",
+      "region": "world",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What triggered the 40-minute brawl and were there specific incidents or players involved that precipitated the mass violence?",
+        "How is it logistically possible to issue 51 red cards during active fighting—were players ejected sequentially or simultaneously, and what was the referee's safety protocol?",
+        "What are the verified consequences for both teams, clubs, and the referee, and has the Brazilian football federation officially confirmed this incident with documentation?",
+        "Why did authorities allow a 40-minute brawl to continue rather than stopping the match earlier, and were police or security present?",
+        "How does this incident compare to historical precedents, and is the 51 red card figure accurate or exaggerated for sensationalism?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/eisenkot-favoured-as-netanyahu-ally-withholds-endorsement/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "Eisenkot favoured as Netanyahu ally withholds endorsement",
+      "summary": "Gadi Eisenkot has emerged as the favourite to form an Israeli government after a religious party, United Torah Judaism, declined to recommend Benjamin Neta\n\nRead More: https://punchng.com/eisenkot-favoured-as-netanyahu-ally-withholds-endorsement/",
+      "published": "Thu, 05 Nov 2026 13:39:58 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:45.975554+00:00",
+      "hausa_translation": "Gadi Eisenkot ya zama mai gida don samar da gwamnatin Isra'ila bayan jama'a mai addini, United Torah Judaism, ta ƙi ba da shawarar Benjamin Netanyahu. Eisenkot ya fito azaman mai gida matakin samar da gwamnati bayan dai-dai sabon al'amari na siyasa.",
+      "sentiment": "neutral",
+      "region": "world",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why did United Torah Judaism, a Netanyahu ally, suddenly withhold endorsement - what internal political dynamics or demands triggered this shift?",
+        "What are Eisenkot's positions on key policy issues (settlements, Palestinian relations, judiciary) that differ from Netanyahu, and who benefits from this change?",
+        "Is this a genuine kingmaker moment or tactical positioning by religious parties to extract concessions before eventual endorsement?",
+        "What voices are missing - what do Palestinian perspectives or international reactions show about the implications of this government formation?",
+        "How does the timing of this announcement relate to Netanyahu's ongoing legal challenges, and could government formation affect those proceedings?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/video-davido-chioma-add-glamour-to-zlatans-morocco-wedding/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "VIDEO: Davido, Chioma add glamour to Zlatan’s Morocco wedding",
+      "summary": "Nigerian music star Davido and his wife, Chioma Adeleke, have arrived in Marrakech, Morocco, for the wedding celebration of rapper Zlatan Ibile and his wife, Davita Lamai.\n\nRead More: https://punchng.com/video-davido-chioma-add-glamour-to-zlatans-morocco-wedding/",
+      "published": "Thu, 05 Nov 2026 13:47:00 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:41.506221+00:00",
+      "hausa_translation": "Buɗe: Davido, Chioma suka ƙara kyau ga auren Zlatan a Morocco. Labari: Baba waƙa na Najeriya Davido da matarsa Chioma Adeleke sun isa Marrakech, Morocco, don bikin auren mawaki Zlatan Ibile da matarsa Davita Lamai.",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "verified",
+      "critical_questions": [
+        "Why is media coverage focusing on celebrity attendance rather than the couple's background or marriage story itself?",
+        "Who benefits from amplifying the presence of A-list musicians at this wedding—the media outlet, the celebrities, or the couple?",
+        "What is the newsworthiness criterion here: is this reportage or celebrity lifestyle promotion?",
+        "Are there missing voices, such as perspectives from Zlatan and Davita themselves about their marriage and celebration?",
+        "Why does the headline emphasize 'glamour' added by guests rather than reporting on the event's actual significance or details?"
+      ]
+    },
+    {
+      "url": "https://punchng.com/ondo-agency-warns-businesses-against-exploiting-consumers/?utm_source=rss.punchng.com&utm_medium=web",
+      "source": "Punch",
+      "title": "Ondo agency warns businesses against exploiting consumers",
+      "summary": "The Ondo State Consumer Protection Agency has warned businesses against selling fake, expired or substandard products, vowing to prosecute offenders.\n\nRead More: https://punchng.com/ondo-agency-warns-businesses-against-exploiting-consumers/",
+      "published": "Thu, 05 Nov 2026 13:49:38 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:37.508707+00:00",
+      "hausa_translation": "Hukumar Kariyar Masu Amfani ta Jihar Ondo ta Gargada Kasuwannin da Su Daina Zaman da Jajjiyar Masu Amfani",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific enforcement mechanisms and resources does the Ondo State Consumer Protection Agency have to actually prosecute violators, or is this primarily a warning without teeth?",
+        "Which businesses or sectors are the primary targets of this warning, and does the agency have documented evidence of widespread exploitation, or is this a general cautionary statement?",
+        "Who are the missing voices in this report - have affected consumers, business associations, or market traders been interviewed about the scale and nature of the problem?",
+        "What is the track record of prosecutions by this agency in the past, and how many cases have resulted in convictions versus warnings that go unheeded?",
+        "Is this warning timed to precede a specific enforcement action or investigation, or is it a reactive response to particular incidents that the article fails to specify?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY2dxaGhDcFVRTnVfeU0xNDhBMmJmaWtXa2FsZlFQcWxRakJaSWthVWc2Z2h2UzBhMlhrTGRwbHpSVk5PQ0M1cVZOeGVRUmFib1VuenBVRU42YzJWOWRzN3YyT1laX2gzOUo3cWR5S1RCZTlOeGpwWkVzVjhhWHNKNGpiemxEVkdGZDliR3lBa3dfT0NaQmZPWWdrdHVDRGNOMXpwWlBtczJRTlpzSldGNzNWYXp0blUzZGMtYw?oc=5",
+      "source": "Premium Times",
+      "title": "‘Yan bindiga sun kashe soja, mace mai ciki, sun sace mutane 15 a Taraba - Premium Times Hausa",
+      "summary": "‘Yan bindiga sun kashe soja, mace mai ciki, sun sace mutane 15 a Taraba&nbsp;&nbsp;Premium Times Hausa",
+      "published": "Wed, 04 Nov 2026 17:22:47 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:32.748223+00:00",
+      "hausa_translation": "Gunmen kill soldier, pregnant woman, kidnap 15 people in Taraba",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who are these gunmen and what is their stated motivation - is this banditry, insurgency, or communal conflict?",
+        "Why is Premium Times Hausa reporting this through Google summary format rather than a full investigative piece with named sources?",
+        "What is the security response and why have similar incidents in Taraba continued despite military presence?",
+        "Are the 15 kidnapped individuals civilians or have they been identified - what demands, if any, have been made?",
+        "How does this incident fit into the broader pattern of violence in Taraba state and who benefits from reporting or underreporting such incidents?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbTA2ZjVRallJbHBYWkFFeTI1MUprNk85R2w5NEI2cVRSTHBtb3NMcFhDcFFTNTZ4TzhfMzRVR1ZFOXBhQkplVHczUHhJbEt1ZnczQkVqcElmMFR0TE5feUhKX1ZuYTQ0WVZjUElDYkh0NmpIWDdfRnkwUlBfbzZLbk5DVm91elBocnlxbG9uUDJiRFpqWkkzZWlqdkd0MXc0eW93UGNYTjBXenFUQ292anhvUHI2d0YtMFRMV19WbTdSRERwemVGM0l3?oc=5",
+      "source": "Premium Times",
+      "title": "Jailed couple sentenced to fresh 10 years’ imprisonment for property fraud - Premium Times Nigeria",
+      "summary": "Jailed couple sentenced to fresh 10 years’ imprisonment for property fraud&nbsp;&nbsp;Premium Times Nigeria",
+      "published": "Mon, 02 Nov 2026 19:51:06 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:29.976878+00:00",
+      "hausa_translation": "Jaji da mace da aka jajera saboda zamba-zamba na gida an damke su watanni 10 saboda jargami",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific properties were involved and who were the actual victims - are they identified and compensated?",
+        "What evidence secured this conviction and were there any appeals or prior acquittals that led to this 'fresh' 10-year sentence?",
+        "How much money was involved in the fraud scheme and where did the proceeds go - has asset recovery been attempted?",
+        "Why is this case only now receiving media attention if the couple was already 'jailed' - what triggered the fresh sentencing?",
+        "Were there accomplices, officials, or institutions that facilitated this fraud who escaped prosecution?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/headlines/922934-breaking-court-nullifies-atikus-candidacy-sacks-all-adc-candidates-party-leadership.html",
+      "source": "Premium Times",
+      "title": "Court nullifies Atiku’s candidacy, sacks all ADC candidates, party leadership",
+      "summary": "The judgement, if upheld by the higher courts, means the ADC, a major challenger to the ruling All Progressives Congress (APC), is barred from fielding candidates in the upcoming general elections.\nThe post Court nullifies Atiku’s candidacy, sacks all ADC candidates, party leadership appeared first on Premium Times Nigeria.",
+      "published": "Thu, 05 Nov 2026 11:22:00 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:26.092337+00:00",
+      "hausa_translation": "Kotun ta kashe takaici na Atiku, ta kashe duk alkaluman ADC, da jama'ar shugaban jam'iyyar",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who initiated this court case and what are their political affiliations or interests (cui bono)?",
+        "What specific legal grounds did the court cite for nullifying ADC's candidacy, and are these grounds consistently applied to other parties?",
+        "Why was this ruling made at this particular timing relative to the election schedule, and who benefits from ADC's exclusion?",
+        "What is the appellate process and likelihood of reversal, given the article's conditional language ('if upheld')?",
+        "What statements or defense has ADC and Atiku provided in response, and why are their voices absent from this report?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/opinion/922931-how-sundiata-post-is-redefining-african-medias-role-in-global-research-by-max-amuchie.html",
+      "source": "Premium Times",
+      "title": "How Sundiata Post is redefining African media’s role in global research, By Max Amuchie",
+      "summary": "The ultimate significance of this undertaking will depend on the quality of the research it supports, the collaborations it attracts and the usefulness of the knowledge it helps preserve and disseminate. But the underlying proposition is clear: an African media institution can do more than report events and participate in public debate. It can also [&#8230;]\nThe post How Sundiata Post is redefinin",
+      "published": "Thu, 05 Nov 2026 11:23:48 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:22.717318+00:00",
+      "hausa_translation": "Sundiata Post ta sake fasalta rawar kafar Afirka a binciken duniya, ta Max Amuchie. Mahimancin wannan aikin zai dogara da ingancin binciken da ya goyi, haɗin gida da ya ja, da amfanin ilimi da ya tiyata da yaɗa. Amma babbar imani ce: cibiyar kafar Afirka ta jita iya aiki fiye da labari kawai da haɗa kai cikin jada-jadi na jama'a.",
+      "sentiment": "positive",
+      "region": "africa",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific funding sources support Sundiata Post and who controls editorial independence?",
+        "How does this African media initiative compare to existing research institutions, and does it risk duplicating or fragmenting existing efforts?",
+        "Whose voices and research priorities are centered in this 'global research' agenda—whose knowledge gets preserved and whose gets marginalized?",
+        "What evidence exists that this platform will actually influence global research outcomes versus serving primarily as a promotional vehicle?",
+        "How transparent are the governance structures and decision-making processes that determine which research gets disseminated?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/news/top-news/922935-supreme-court-bench-shrinks-as-njc-receives-notices-of-deaths-retirements-from-various-courts.html",
+      "source": "Premium Times",
+      "title": "Supreme Court bench shrinks as NJC receives notices of deaths, retirements from various courts",
+      "summary": "The NJC received notices of six retirements and nine deaths of judges from various courts at the federal and state levels.\nThe post Supreme Court bench shrinks as NJC receives notices of deaths, retirements from various courts appeared first on Premium Times Nigeria.",
+      "published": "Thu, 05 Nov 2026 12:02:59 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:17.837840+00:00",
+      "hausa_translation": "Cibiyar Yada Alkalai (NJC) ta samu sanarwa game da mutuwa da ritaya na alkalai gida 6 da mutuwa 9 daga mahakamun iri-iri a matakin tarayya da jiha.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the current total number of judges on the bench, and what percentage does this loss represent relative to judicial capacity?",
+        "Are these retirements and deaths occurring at rates above historical averages, and if so, what systemic factors may be responsible?",
+        "Why does the article lack detail on whether replacements are being appointed and what timeline exists for filling these vacancies?",
+        "Who benefits from a shrunken judiciary—government entities facing legal challenges, or citizens seeking justice—and what does this mean for case backlogs?",
+        "Are there disparities in deaths and retirements across federal versus state courts that suggest resource inequality or working condition issues?"
+      ]
+    },
+    {
+      "url": "https://www.premiumtimesng.com/features-and-interviews/922906-driving-beyond-the-ember-months-by-osondu-ohaeri.html",
+      "source": "Premium Times",
+      "title": "Driving Beyond the Ember Months, By Osondu Ohaeri",
+      "summary": "The FRSC has a responsibility for traffic management, enforcement of road traffic regulations, public education, crash prevention and emergency response.\nThe post Driving Beyond the Ember Months, By Osondu Ohaeri appeared first on Premium Times Nigeria.",
+      "published": "Thu, 05 Nov 2026 12:19:31 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:13.987476+00:00",
+      "hausa_translation": "Tuƙi Baje cikin Watannin Ember, Ta Osondu Ohaeri - Jami'an FRSC suna da alhakin sarrafa zazzafan mota, tilastawa ga dokokin jira, ilmantarwa ga jama'a, rigakafi na hadarin bakin jiya da amsa gaida.",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific policy failures or successes during ember months prompted this opinion piece, and does the author present data or anecdotes?",
+        "Is the author affiliated with FRSC or transportation sector stakeholders, and could this represent institutional messaging rather than independent analysis?",
+        "Which stakeholders' voices are absent—road users, accident victims' families, rural communities—and whose narrative dominates?",
+        "Does the piece propose concrete solutions or enforcement mechanisms, or does it remain at the level of responsibility-listing without accountability measures?",
+        "Why focus on FRSC responsibilities without addressing systemic issues like vehicle maintenance standards, road infrastructure quality, or economic pressures on drivers?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50OGg0Q2NZRVg5bEVYUjNaa3VsVGhNSWlQTmVGMmpYelNnT0tORXNBMmdyVjQxTTBBMEJNTHYtY19KMkhzTG9rYXdaZVRjZTBuRlF3U1RGelcyT1M2U0ZOUDU5WlQ?oc=5",
+      "source": "Daily Trust",
+      "title": "Atiku breaks through in Sokoto - Daily Trust",
+      "summary": "Atiku breaks through in Sokoto&nbsp;&nbsp;Daily Trust",
+      "published": "Thu, 05 Nov 2026 04:50:22 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:08.389392+00:00",
+      "hausa_translation": "Atiku ya tsaya jiya a Sokoto",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific metrics define 'breakthrough' - polling data, rally attendance, or endorsements - and who measured them?",
+        "Why is this development newsworthy now, and does the timing align with campaign cycles or Daily Trust's editorial patterns?",
+        "Whose voices are missing - what do Sokoto residents, opposition parties, or election observers say about this claimed breakthrough?",
+        "What financial or logistical resources enabled this 'breakthrough,' and who funded the campaign activities?",
+        "Does Daily Trust have ownership ties or editorial bias toward Atiku or the PDP that might influence framing?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFJaX3hZLUltM056X2ZUZnk3eTNJRThOaGRocUZwejN4aERqbUpoTm5NLWhraVQ4RG9Fei1xSzVHYjRSX1EtZ2dRSVlfQkpXSWFiSHU1X3k2X25MNGdCam9fS0FweEpBV0Frem16ZG40UnpJcGswcWJybUdIdWR2OGhvdVlXTzQ?oc=5",
+      "source": "Daily Trust",
+      "title": "Amidst heatwave, electricity supply shortage bites harder - Daily Trust",
+      "summary": "Amidst heatwave, electricity supply shortage bites harder&nbsp;&nbsp;Daily Trust",
+      "published": "Thu, 05 Nov 2026 04:42:43 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:05.442771+00:00",
+      "hausa_translation": "Cikin zafi mai tsanani, karuwar kudin wutar lantarki ya kara mummunar",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific data on electricity supply shortages is presented, or does the article rely on anecdotal accounts without quantifiable metrics?",
+        "Who benefits from the status quo of power shortages, and are energy sector stakeholders interviewed to explain supply chain failures?",
+        "Are alternative energy solutions or government contingency plans mentioned, or does the coverage suggest helplessness without exploring solutions?",
+        "Is the heatwave-electricity shortage connection causal evidence, or coincidental timing that conflates weather with infrastructure inadequacy?",
+        "Which voices are missing—consumers, utility workers, engineers, or policymakers—that could contextualize root causes versus surface symptoms?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW1sa1lCaHlubVAxbEFqeDI5RXNINUdHMVNNQnJISmh2N3pvWFR6TVp3X0R0TWRSb3IyTllITVZHaWdRZjhoV093cnVidjg4ak1Ma1o4ZEhyYjdBbTYtRG85Z0JPR0haQUxGZ3pzSzZpOXdNVWlRRk5JODlVNjBxY3ZUUUl3MDNiLURQYjl3?oc=5",
+      "source": "Daily Trust",
+      "title": "ADC finally Unveils Venue for Atiku’s Campaign flag-off - Daily Trust",
+      "summary": "ADC finally Unveils Venue for Atiku’s Campaign flag-off&nbsp;&nbsp;Daily Trust",
+      "published": "Wed, 04 Nov 2026 09:04:27 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:53:01.978633+00:00",
+      "hausa_translation": "ADC a kamata ya bayyana waje na wuri don fitar da jirgin ADC na Atiku - Daily Trust",
+      "sentiment": "neutral",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Why did the ADC delay announcing the venue, and what does this reveal about internal party organization or funding challenges?",
+        "Who benefits politically and financially from hosting this campaign flag-off, and are there undisclosed sponsorship arrangements?",
+        "Why is this venue announcement framed as significant news when core campaign details (date, logistics, policy agenda) remain absent?",
+        "What is the timing strategy behind this announcement relative to other political parties' activities and media cycles?",
+        "Are there alternative voices from within ADC or competing candidates regarding this venue choice that remain unreported?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzlBOFVjeXlqYUpZQXVjejk4QjNTVENsYVNUUGNJSE1yaXN3V2JYd0FNQTh5ZUF0MnBiLVNXTkF3blltWWZBUFN0TEM0T2ZrSWtwS1M1R1ZNTXItdVJ1bWlQQmZfMnFyNEphT0o5RmtzeWpobzdLaXMydlpYT19qYnlWZEM?oc=5",
+      "source": "Daily Trust",
+      "title": "BREAKING: Court sacks David Mark, voids Atiku’s candidacy - Daily Trust",
+      "summary": "BREAKING: Court sacks David Mark, voids Atiku’s candidacy&nbsp;&nbsp;Daily Trust",
+      "published": "Thu, 05 Nov 2026 10:47:19 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:58.713234+00:00",
+      "hausa_translation": "SANNAR: Kotun ta kawar da David Mark, ta bata takardar Atiku - Daily Trust",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What are the specific legal grounds cited by the court for this decision, and are they being applied consistently to other candidates?",
+        "Who filed this court case and what are their political affiliations or interests (cui bono)?",
+        "Why is the headline framing two separate legal issues together - what is the actual connection between David Mark's removal and Atiku's candidacy?",
+        "Has this court ruling been officially published in legal documents, or is this based solely on media reporting without verification?",
+        "What are the immediate financial and political consequences for those backing these candidates, and who benefits from this timing?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/unodc-demands-youth-inclusion-in-policy-elections/",
+      "source": "Daily Trust",
+      "title": "UNODC demands youth inclusion in policy, elections",
+      "summary": "Key development stakeholders, civil society leaders, and international partners have issued a unified call to dismantle age-based stereotypes and actively integrate young citizens into national decision-making and electoral processes. They made the call in Abuja on Wednesday at the Nigeria Youth Futures Fund (NYFF) @ 5 milestone event. Executive Director of LEAP Africa, Kehinde Ayeni, [&#8230;]",
+      "published": "Thu, 05 Nov 2026 07:38:48 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:55.110813+00:00",
+      "hausa_translation": "UNODC yana bukatar haɗa matasa a cikin jinƙai da zaben",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific policy mechanisms or legislative changes are being proposed to enforce youth inclusion, or is this purely aspirational rhetoric?",
+        "Who funds NYFF and LEAP Africa, and do these funders have geopolitical or economic interests in shaping Nigeria's youth narrative?",
+        "Why does the article mention 'international partners' prominently - are external actors driving this agenda, and what are their underlying motivations?",
+        "What evidence exists that previous youth inclusion initiatives have meaningfully influenced policy outcomes, or is this another unfunded mandate?",
+        "Which youth voices are missing from this 'unified call' - are marginalized or opposition-minded youth represented, or only NGO-affiliated youth?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/nile-university-of-nigeria-and-the-police-explore-partnership-in-cybersecurity-research-and-professional-development/",
+      "source": "Daily Trust",
+      "title": "Nile University of Nigeria and the Police Explore Partnership in Cybersecurity, research and professional development",
+      "summary": "The Vice-Chancellor of Nile University of Nigeria, accompanied by members of the University&#8217;s management, has paid a courtesy visit to the Inspector-General of Police, IGP Olatunji Rilwan Disu, psc(+), NPM, to discuss opportunities for collaboration between the University and the Nigeria Police Force (NPF). During the meeting, the Vice-Chancellor thanked the Nigeria Police Force for [&#8230;",
+      "published": "Thu, 05 Nov 2026 08:35:49 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:51.741155+00:00",
+      "hausa_translation": "Jami'ar Nile ta Najeriya da Polisi Suna Binciki Haɗin Gida a Cybersecurity, Bincike da Ci Gaban Ƙwararru",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What specific cybersecurity threats or gaps in NPF operations prompted this partnership at this particular time?",
+        "Who bears the financial costs of training and research - the university, police budget, or external donors - and what oversight mechanisms exist?",
+        "What are the terms regarding data access and privacy when university researchers work with police operations and citizen information?",
+        "Are there independent voices or civil society organizations involved in monitoring this partnership to ensure it doesn't enable surveillance overreach?",
+        "Why was the article truncated at '[...]' - what substantive commitments or concerns were omitted from the public summary?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/revenue-gov-lawal-approves-recruitment-of-technical-staff-for-zamfara-irs/",
+      "source": "Daily Trust",
+      "title": "Revenue: Gov Lawal Approves recruitment of technical staff for Zamfara IRS",
+      "summary": "Governor Dauda Lawal has approved the recruitment of additional technical staff across various career cadres at the Zamfara State Internal Revenue Service (ZIRS). The decision is in line with the state government&#8217;s efforts to strengthen revenue generation. The Service has begun the recruitment process in line with approved workforce requirements and applicable public service procedures. [&#8",
+      "published": "Thu, 05 Nov 2026 09:50:16 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:48.133067+00:00",
+      "hausa_translation": "Jarin Kudin: Gov Lawal Ya Amince Da Ɗaukar Aiki na Ƙwararrun Jami'a a Zamfara IRS",
+      "sentiment": "positive",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the specific budget allocation for these new positions and how does it compare to actual revenue generation targets?",
+        "Who exactly are the beneficiaries of these recruitment positions - are there transparency measures to prevent patronage or nepotism?",
+        "Why is workforce expansion necessary now - what specific revenue collection deficiencies prompted this decision?",
+        "What is the track record of ZIRS in revenue collection, and how will additional staff demonstrably improve performance?",
+        "Are there independent audits or oversight mechanisms mentioned to ensure these new staff positions deliver measurable results?"
+      ]
+    },
+    {
+      "url": "https://dailytrust.com/breaking-court-sacks-david-mark-voids-atikus-candidacy/",
+      "source": "Daily Trust",
+      "title": "BREAKING: Court sacks David Mark, voids Atiku’s candidacy",
+      "summary": "A Federal High Court sitting in Abuja, on Thursday, nullified all the processes of the African Democratic Congress (ADC) that led to the emergence of former Vice President Atiku Abubakar as the party&#8217;s candidate for the 2027 election. Justice Peter Lifu, in a judgment, also nullified the emergence of the former Senate President, David Mark, [&#8230;]",
+      "published": "Thu, 05 Nov 2026 10:45:24 +0000",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:45.000556+00:00",
+      "hausa_translation": "BREAKING: Kotun ya soke David Mark, ya bata shaharar Atiku - Kotun Tarayya a Abuja ta bata duk tsarin African Democratic Congress (ADC) da suka kai ga neman Atiku Abubakar a matsayin sakamakon jam'iyyar ADC ga zaben 2027. Justice Peter Lifu ya bata kuma neman David Mark.",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "Who filed the lawsuit and what are their political affiliations or interests in removing these candidates?",
+        "What specific legal grounds did Justice Lifu cite for nullifying the ADC's processes, and are these grounds consistent with previous rulings?",
+        "Why does the headline single out David Mark and Atiku when the judgment reportedly affected multiple candidates and party processes?",
+        "What is the timeline of this case relative to campaign deadlines, and does the timing suggest strategic legal maneuvering?",
+        "Are there appeals mechanisms available, and what are the realistic chances of reversal or stay of this judgment?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTVBRXJ0NUNncWlDc1JlemEzdXZ5eUZDcnpCSTRyX3U3dGdST2VOUnRpN1JDY0lxYXlfMXJaM1ZaUEh0ZXg2d1gyb01aZXdkaGxXd0NJYUZjNnJTUHJVaUxyeGRZUHJqdm9jYVlDeXlqMGRuTlRKV2NTT3g4OHNBQ2dndDdhaFNmUmptcG9iRElEWk9odnJweVVNV2FfRENnZzd3VUczRFhLLXRuRkdjWFZYUDJSY2w5amo4?oc=5",
+      "source": "Sahara Reporters",
+      "title": "TUC Secretary General Nuhu Toro Denies Diverting 400 Bags Of Tinubu Govt Rice, Calls Allegation ‘Lie From The Pit Of Hell’ - Sahara Reporters",
+      "summary": "TUC Secretary General Nuhu Toro Denies Diverting 400 Bags Of Tinubu Govt Rice, Calls Allegation ‘Lie From The Pit Of Hell’&nbsp;&nbsp;Sahara Reporters",
+      "published": "Wed, 04 Nov 2026 17:50:36 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:40.898330+00:00",
+      "hausa_translation": "Jagoran Sakatariya TUC Nuhu Toro ya musanta cewa ya canza buhunan shuka 400 na Tinubu kasar Tarayya, ya kira zargin 'Karya daga kujerun Jahannam'",
+      "sentiment": "negative",
       "region": "nigeria",
       "context_check": "disputed",
       "critical_questions": [
-        "What is MC Oluomo's actual citizenship status - does he genuinely hold American citizenship or is this a claim without documented proof?",
-        "Why make this statement at a campaign rally specifically, and cui bono - who benefits politically from this assertion of dual citizenship?",
-        "Are there missing details about the context of his US entry history, visa records, or any immigration complications that would contradict this claim?",
-        "What is the verifiable evidence versus assertion ratio - has this claim been independently confirmed by any credible sources or immigration records?",
-        "Is there ownership bias in the reporting - does Tribune have any editorial relationship with MC Oluomo or political stakeholders he's supporting at this rally?"
+        "Who made the original allegation of rice diversion, and what evidence do they present versus Toro's denial?",
+        "Where is the 400 bags of rice now, and can independent auditors or media verify its location?",
+        "Why would this story emerge now, and does it relate to political tensions or factional disputes within TUC or government?",
+        "What is Nuhu Toro's track record with managing government distributions, and are there prior complaints?",
+        "Is there documentation (receipts, distribution lists, warehouse records) that can establish the factual trail of the rice allocation?"
       ]
     },
     {
-      "url": "https://tribuneonlineng.com/kalu-felicitates-professor-dapo-akandes-election-as-icj-judge/",
-      "source": "Tribune",
-      "title": "Kalu felicitates Professor Dapo Akande’s election as ICJ Judge",
-      "summary": "Deputy Speaker of the House of Representatives, Hon. Benjamin Kalu, has congratulated Nigerian-born Professor Dapo Akande on his election...\nThe post Kalu felicitates Professor Dapo Akande&#8217;s election as ICJ Judge appeared first on Tribune Online.",
-      "published": "Wed, 04 Nov 2026 22:11:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:55.458425+00:00",
-      "hausa_translation": "Mataimaki Gida na Wakilan Jiya, Hon. Benjamin Kalu, ya gaishe Farfesa Dapo Akande wanda aka zaɓe a matsayin Alkali na ICJ. Akande wanda aka haifi a Najeriya ya lashe wannan babbar jeri a aiki na kiɗiddiga. Wannan babbar nasara ta nuna girman Nijeriya a faje-faje.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What are Professor Akande's specific qualifications and track record that led to his ICJ election, and were there competing candidates from other nations?",
-        "Why is the Deputy Speaker specifically highlighting this achievement - what domestic political benefit or narrative does this serve for Kalu or the Nigerian government?",
-        "What is Professor Akande's institutional affiliation and has he previously worked on cases or positions that might create conflicts of interest on the ICJ bench?",
-        "Are there details missing about the election process, voting margins, or any controversial aspects of his candidacy that warrant transparency?",
-        "How representative is this achievement of broader Nigerian representation in international judicial institutions, or is this being presented as disproportionately significant?"
-      ]
-    },
-    {
-      "url": "https://leadership.ng/abdulrazaq-lays-foundation-for-teaching-hospital-to-expand-healthcare-in-kwara-south/",
-      "source": "Leadership",
-      "title": "AbdulRazaq Lays Foundation For Teaching Hospital To Expand Healthcare In Kwara South",
-      "summary": "Kwara State governor, AbdulRahman AbdulRazaq, has laid the foundation for the clinical building complex of the Thomas Adewumi University Teaching Hospital (TAUTH), Oko-Irese, in a move aimed at expanding access to tertiary healthcare and strengthening medical education in the state. The ceremony, held on Wednesday in Omu-Aran, Irepodun Local Government Area, was attended by government [&#8230;]",
-      "published": "Wed, 04 Nov 2026 21:00:36 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:50.636301+00:00",
-      "hausa_translation": "Gwamnan Kwara, AbdulRahman AbdulRazaq, ya bugi titi na ginin aiki na asibitacciyar jiya ta Thomas Adewumi University Teaching Hospital (TAUTH) a Oko-Irese, domin fadada samun kulawa ta asibiti masu karfi da kuma inganta ilimin likitanci a jihar Kwara. Seren jinin da aka yi ranar Laraba a Omu-Aran, Irepodun Local Government Area, ya kasance sanye da gida gwamnati da sauran jama'a masu mahimmanci.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the actual timeline and budget allocation for completing TAUTH, and has the governor fulfilled previous infrastructure promises in Kwara South?",
-        "Who are the contractors awarded this project, and are there documented conflicts of interest or political connections to the governor's associates?",
-        "Why was the foundation-laying ceremony the news focus rather than completion timelines, staffing plans, or operational readiness of the teaching hospital?",
-        "What voices are absent—have opposition parties, civil society, or local communities been consulted on healthcare priorities, or is this a top-down announcement?",
-        "How will this facility address the underlying healthcare challenges (brain drain, funding gaps, infrastructure maintenance) that plague similar institutions in Nigeria?"
-      ]
-    },
-    {
-      "url": "https://leadership.ng/nigeria-crush-brazil-to-reach-historic-u-17-womens-world-cup-final/",
-      "source": "Leadership",
-      "title": "Nigeria Crush Brazil To Reach Historic U-17 Women’s World Cup Final",
-      "summary": "Nigeria&#8217;s Flamingos have reached their first-ever FIFA U-17 Women&#8217;s World Cup final after producing an impressive 3-1 victory over Brazil in the semi-finals to set up a showdown with Japan. Akeem Busari&#8217;s side delivered a commanding performance, scoring three second-half goals to overcome the South Americans and move within one victory of claiming Nigeria&#8217;s maiden [&#8230;]",
-      "published": "Wed, 04 Nov 2026 22:01:09 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:44.794797+00:00",
-      "hausa_translation": "Flamingos na Nigeria sun ci Brazil da cin karfi 3-1 a wasan kafin-karshe na FIFA U-17 Mata World Cup, suna je wa final na farko. Akeem Busari ya kafa wasan da yawa, sai Najeriya za ta face Japan a wasan karshe don samun nasarawa ta farko.",
-      "sentiment": "positive",
-      "region": "africa",
-      "context_check": "verified",
-      "critical_questions": [
-        "What investment or funding gaps exist in women's youth football development in Nigeria, and how does this historic win challenge or reinforce existing resource disparities in African football?",
-        "Why is this achievement being framed as 'historic' and 'maiden' - what structural factors have previously prevented Nigeria's U-17 women from reaching finals, and have those conditions actually changed?",
-        "The article emphasizes Brazil's loss rather than Japan's strengths - does this framing overlook Japan's established dominance in youth women's football tournaments?",
-        "Who benefits from increased media attention to this victory, and will it translate into sustained funding and infrastructure for women's youth football in Nigeria beyond this tournament?"
-      ]
-    },
-    {
-      "url": "https://leadership.ng/haaland-rescues-man-city-against-leipzig-in-2-3-champions-league-thriller/",
-      "source": "Leadership",
-      "title": "Haaland Rescues Man City Against Leipzig In 2-3 Champions League Thriller",
-      "summary": "Erling Haaland continued his remarkable goalscoring record against RB Leipzig as Manchester City secured a hard-fought 3-2 victory in Germany to return to winning ways in the UEFA Champions League. The Norwegian striker struck the decisive goal in the 78th minute, converting Elliot Anderson&#8217;s low cross to complete an entertaining contest in which both sides [&#8230;]",
-      "published": "Wed, 04 Nov 2026 22:22:46 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:40.448661+00:00",
-      "hausa_translation": "Haaland ya ceci Manchester City a gida ga Leipzig a wasan Champions League mai ban mamaki - 3-2. Mawakin Norwegian Erling Haaland ya bugi baba ta 78 na mintuna, wanda ya kammala wasan da duka bangarorin suka yi aiki sosai.",
-      "sentiment": "positive",
-      "region": "world",
-      "context_check": "verified",
-      "critical_questions": [
-        "What is the editorial motivation for Leadership to lead with a Manchester City sports narrative rather than domestic Nigerian news?",
-        "Why does the article emphasize Haaland's 'remarkable goalscoring record' without citing specific statistics or comparative data?",
-        "Whose voices are absent - Leipzig's performance, tactical decisions, or post-match analysis from the losing side?",
-        "Does the framing of a 3-2 result as 'hard-fought' versus 'thrilling' reflect neutral sports reporting or implicit bias toward the winning team?",
-        "What advertising or sponsorship relationships might Leadership have with Manchester City or the Premier League that could influence coverage prominence?"
-      ]
-    },
-    {
-      "url": "https://leadership.ng/gyokeres-inspires-arsenal-to-victory-over-slavia-prague-as-unbeaten-run-continues/",
-      "source": "Leadership",
-      "title": "Gyokeres Inspires Arsenal To Victory Over Slavia Prague As Unbeaten Run Continues",
-      "summary": "Viktor Gyokeres scored and provided an assist as Arsenal maintained their unbeaten start to the UEFA Champions League league phase with a 2-1 victory over Slavia Prague. The Swedish striker delivered an influential performance as Mikel Arteta&#8217;s side secured their fourth consecutive game without defeat in the competition, keeping themselves firmly in contention for automatic [&#8230;]",
-      "published": "Wed, 04 Nov 2026 22:26:23 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:36.329450+00:00",
-      "hausa_translation": "Viktor Gyokeres ya yi gida kuma ya ba da taimako yayin da Arsenal ta ci nasara a gida ga Slavia Prague da skunin 2-1 a wasan UEFA Champions League. Makwabcin Swedish ya nuna karfin aikacin sa yayin da Mikel Arteta's na ci nasara da jiya a wasan gida cikin aiki gida, kiyaye kansu tsaye don samun nasara ta atomatik.",
-      "sentiment": "positive",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Why does the headline credit Gyokeres with inspiration when he scored only 1 of 2 goals - what role did the other goalscorer play and why is he minimized?",
-        "The article is truncated mid-sentence about 'automatic' qualification - what key details about Arsenal's standing or tournament implications are missing from this incomplete summary?",
-        "Is this article favoring Arsenal's narrative uncritically, and does it present Slavia Prague's perspective or performance analysis, or is coverage one-sided?",
-        "The source 'Leadership' is attributed - what is the editorial bias of this outlet and does it have financial or commercial ties to sports betting or Arsenal FC partnerships?",
-        "How does describing a 2-1 victory as 'unbeaten run continues' frame close competition as dominant dominance - are the actual match statistics and possession data available?"
-      ]
-    },
-    {
-      "url": "https://businessday.ng/sports/article/flamingos-stun-brazil-to-reach-first-fifa-u-17-womens-world-cup-final/",
-      "source": "BusinessDay",
-      "title": "Flamingos stun Brazil to reach first FIFA U-17 Women’s World Cup final",
-      "summary": "Nigeria’s U-17 female national team, the Flamingos, reached their first FIFA U-17 Women’s World Cup final after defeating South American\nread more Flamingos stun Brazil to reach first FIFA U-17 Women’s World Cup final",
-      "published": "Wed, 04 Nov 2026 21:32:09 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:06:01.877252+00:00",
-      "hausa_translation": "Wadata Flamingos sun yi mamaki ga Brazil don kai ga gida na farko na FIFA U-17 mata na duniya",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the complete final score and which opponent did Nigeria actually defeat - was it Brazil or another South American team as the headline suggests?",
-        "What investment has Nigeria made in women's youth football development compared to male counterparts, and will this success translate to sustained funding?",
-        "Why is this achievement being reported by a business publication rather than sports media, and what economic angle is BusinessDay emphasizing?",
-        "Who are the key stakeholders benefiting from this visibility (coaches, federation officials, sponsors) and how transparent is their involvement?",
-        "What happens to these young players after the tournament - is there a documented career pipeline into senior national teams and professional leagues?"
-      ]
-    },
-    {
-      "url": "https://businessday.ng/news/article/bitget-brings-stablecoin-payments-to-nigerians-as-crypto-market-expands/",
-      "source": "BusinessDay",
-      "title": "Bitget brings stablecoin payments to Nigerians as crypto market expands",
-      "summary": "Bitget Wallet is expanding the use of digital dollars in Nigeria with a virtual payment card that allows users to\nread more Bitget brings stablecoin payments to Nigerians as crypto market expands",
-      "published": "Wed, 04 Nov 2026 21:38:08 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:58.438859+00:00",
-      "hausa_translation": "Bitget ya kawo da karfi na stablecoin zuwa Nijeriya tun da kasuwar cryptocurrency ta bambaci. Wallet Bitget yana fadada amfani da digital dollars a Nijeriya tare da kasin bashi na jiya wanda ya ba da damar ga masu amfani.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Who benefits most from this expansion—Bitget, Nigerian consumers, or foreign investors—and what are the profit margins?",
-        "What regulatory approval or oversight exists for stablecoin payments in Nigeria, and how does this comply with CBN directives?",
-        "Why is a crypto exchange introducing payment cards when Nigerian banks have restricted crypto services, and what is the actual adoption rate?",
-        "What are the hidden costs, exchange rate risks, and who bears the financial risk if the stablecoin loses value?",
-        "Where are the voices of Nigerian financial regulators, consumer protection advocates, and unbanked populations who may be most affected?"
-      ]
-    },
-    {
-      "url": "https://businessday.ng/africa/article/ghana-inflation-hits-11-month-high-as-transport-costs-drive-non-food-prices/",
-      "source": "BusinessDay",
-      "title": "Ghana inflation hits 11-month high as transport costs drive non-food prices",
-      "summary": "Ghana’s annual inflation rate rose to an 11-month high of 5.5 percent in October 2026, from 5.2 percent in September,\nread more Ghana inflation hits 11-month high as transport costs drive non-food prices",
-      "published": "Wed, 04 Nov 2026 21:39:08 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:54.551803+00:00",
-      "hausa_translation": "Kasar Ghana: Farashin kaya ya tashi zuwa matsanancin shekara 11 cikin Oktoba 2026, jiya daga kashi 5.2 cikin shuni zuwa kashi 5.5, saboda karuwar farashin sufuri da jirage.",
-      "sentiment": "negative",
-      "region": "africa",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific monetary or fiscal policies has Ghana's central bank implemented to address inflation, and who benefits from the chosen intervention strategies?",
-        "How do transport cost increases compare to historical trends, and are there documented supply chain disruptions or currency depreciation driving these rises?",
-        "Whose voices are missing from this report—are labor unions, low-income consumers, or transportation workers quoted about the real-world impact of these price increases?",
-        "Is the 11-month high framing presented as concerning or manageable, and does this language choice reflect BusinessDay's editorial stance on Ghana's economic management?",
-        "What evidence distinguishes transport costs as the primary driver versus secondary factors like import tariffs, fuel prices, or global commodity fluctuations?"
-      ]
-    },
-    {
-      "url": "https://businessday.ng/business-economy/article/nigerias-economy-grows-but-rising-business-costs-threaten-recovery/",
-      "source": "BusinessDay",
-      "title": "Nigeria’s economy grows, but rising business costs threaten recovery",
-      "summary": "Nigeria&#8217;s economic activity strengthened marginally in October, extending the country&#8217;s expansion for a fifth consecutive month, but rising input costs\nread more Nigeria&#8217;s economy grows, but rising business costs threaten recovery",
-      "published": "Wed, 04 Nov 2026 21:44:07 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:50.230627+00:00",
-      "hausa_translation": "Tattalin arzikin Nijeriya ya girma, amma karuwar farashin aiki yana gana da komawa",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific input costs are rising and which business sectors are most affected - who bears the burden and who benefits?",
-        "How does this marginal growth compare to regional peers and what are the underlying drivers beyond the headline figure?",
-        "Which government policies or external factors (inflation, exchange rates, supply chains) are responsible, and who is accountable?",
-        "Whose voices are missing from this analysis - small businesses, workers, consumers, or specific regions within Nigeria?",
-        "Is the 'threat to recovery' framing presenting evidence-based risk or speculation, and what assumptions underpin it?"
-      ]
-    },
-    {
-      "url": "https://www.channelstv.com/2026/11/04/video-makinde-unveils-manifesto-faults-nigerian-leaders-for-lack-of-ideas/",
-      "source": "Channels",
-      "title": "VIDEO: Makinde Unveils Manifesto, Faults Nigerian Leaders For Lack Of Ideas",
-      "summary": "The Oyo State Governor said the document outlines his proposed solutions to the country’s economic, political, social and institutional challenges.\nThe post VIDEO: Makinde Unveils Manifesto, Faults Nigerian Leaders For Lack Of Ideas appeared first on Channels Television.",
-      "published": "Wed, 04 Nov 2026 21:31:41 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:45.257464+00:00",
-      "hausa_translation": "Makinde ya buɗe Manifesto, ya zargi Shugabannin Nijeriya da rashin Tunanin Wayewa",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific 'ideas' or policy solutions does Makinde propose that differ meaningfully from existing platforms of other leaders?",
-        "Is this manifesto unveiling timed strategically around upcoming elections, and does the 'lack of ideas' criticism serve Makinde's own political positioning?",
-        "Which stakeholders or interest groups are absent from the manifesto discussion, and whose concerns might be underrepresented?",
-        "What evidence substantiates the claim that Nigerian leaders lack ideas versus this being a rhetorical framing device?",
-        "Does Makinde's own track record as Oyo State Governor demonstrate successful implementation of the ideas he's now criticizing others for lacking?"
-      ]
-    },
-    {
-      "url": "https://www.channelstv.com/2026/11/04/kano-court-sentences-two-men-to-death-for-killing-employer/",
-      "source": "Channels",
-      "title": "Kano Court Sentences Two Men To Death For Killing Employer",
-      "summary": "The court also sentenced a third defendant, Sadiq Sunusi, 19, to seven years’ imprisonment for abetting the crime and burning the deceased’s corpse.\nThe post Kano Court Sentences Two Men To Death For Killing Employer appeared first on Channels Television.",
-      "published": "Wed, 04 Nov 2026 21:49:19 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:41.846229+00:00",
-      "hausa_translation": "Kotun Kano Ta Yanke Hukuncin Ajiya ga Mutane Biyu Saboda Kashe Mai Aiki",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What was the motive for killing the employer - financial gain, workplace dispute, or personal grievance?",
-        "Why did Sadiq Sunusi, 19, agree to abet the murder and dispose of the corpse - was he coerced or complicit?",
-        "Were there any witness testimonies or forensic evidence presented, or does the conviction rely primarily on confessions?",
-        "What is the appellate process and timeline for these death sentences in the Nigerian legal system?",
-        "Were there any socioeconomic factors or labor disputes that preceded this crime that the media coverage omitted?"
-      ]
-    },
-    {
-      "url": "https://www.channelstv.com/2026/11/04/video-peter-obi-declares-ndc-movement-unstoppable-after-convoy-attack/",
-      "source": "Channels",
-      "title": "VIDEO: Peter Obi Declares NDC Movement Unstoppable After Convoy Attack",
-      "summary": "Obi spoke hours after the incident at the party’s presidential town hall meeting in Calabar, organised as part of his nationwide political engagements ahead of the 2027 general elections.\nThe post VIDEO: Peter Obi Declares NDC Movement Unstoppable After Convoy Attack appeared first on Channels Television.",
-      "published": "Wed, 04 Nov 2026 22:04:11 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:38.792350+00:00",
-      "hausa_translation": "Peter Obi ya bayyana cewa NDC Movement ba za ta dakatawa ba bayan harin konvoy. Ya faɗi wannan sa'a bayan abin da ya faru a taron kasuwar jiya na jam'iyyar a Calabar, wanda aka shirya a matsayin wani ɓangare na aiki-aiki na jam'iyyar a gida kafin zaben 2027.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific details are missing about the convoy attack - who was responsible, what was the extent of damage/injuries, and has there been independent verification?",
-        "Why did the article focus on Obi's defiant response rather than investigating the attack itself - whose narrative is being centered and whose is absent?",
-        "What is the timing significance of this incident occurring during campaign engagements ahead of 2027 elections - could this serve political interests?",
-        "Are there contrasting accounts from security agencies, opposition parties, or eyewitnesses that contradict or contextualize Obi's characterization of the event?",
-        "What does 'NDC Movement unstoppable' assertion rest upon - is this backed by evidence, polling data, or is it primarily rhetorical positioning?"
-      ]
-    },
-    {
-      "url": "https://www.channelstv.com/2026/11/04/como-record-stunning-9-1-win-against-lens-in-champions-league/",
-      "source": "Channels",
-      "title": "Como Record Stunning 9-1 Win Against Lens In Champions League",
-      "summary": "Anastasios Douvikas led the way with a hat-trick for the side coached by Cesc Fabregas, who have won three of their four games in this season's league phase.\nThe post Como Record Stunning 9-1 Win Against Lens In Champions League appeared first on Channels Television.",
-      "published": "Wed, 04 Nov 2026 22:14:26 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:33.838442+00:00",
-      "hausa_translation": "Como ta yi babbar nasara ta 9-1 a kan Lens a Champions League. Anastasios Douvikas ya kai kwallo uku ga kansa domin timu da Cesc Fabregas ke jagorance, kuma suka lashe jiya sau uku a cikin wasannin jiya.",
-      "sentiment": "positive",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Is a 9-1 scoreline in modern Champions League football historically plausible, and what verification exists for this specific match result?",
-        "Why is this relatively small Italian club's performance receiving prominent coverage, and who benefits from amplifying this narrative?",
-        "What is the current credibility and track record of Channels Television as a sports news source, and has this story been independently corroborated by major sports outlets?",
-        "The article mentions Como's league phase record but lacks details on competition tier, opponent context, or tournament structure—what crucial information is omitted?",
-        "Does Cesc Fabregas' high-profile coaching role create incentive for selective or exaggerated reporting of team achievements by certain outlets?"
-      ]
-    },
-    {
-      "url": "https://www.vanguardngr.com/2026/11/ifc-access-holdings-partner-to-boost-trade-finance-across-africa/",
-      "source": "Vanguard",
-      "title": "IFC, Access Holdings partner to boost trade finance across Africa",
-      "summary": ".partnership targets businesses, cross-border trade, access to global marketsBy Udeme AkpanThe International Finance Corporation (IFC), a member of the World Bank Group, and Access Holdings Plc have signed a partnership agreement to expand trade finance, support enterprise growth and improve African businesses’ access to regional and international markets. The partnership is expected to strengthen",
-      "published": "Wed, 04 Nov 2026 23:25:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:28.177378+00:00",
-      "hausa_translation": "IFC da Access Holdings suna haɗa kai don ƙara jari-jarinta kasuwanci a faɗi Afrika. Ƙungiyar ta niyar goyan bayan kasuwancin tsakanin ƙasua, goyan bayan haɓaka kasuwa da samun damar shiga kasuwancin yanki da kasa.",
-      "sentiment": "positive",
-      "region": "africa",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What are the specific financial terms, loan amounts, and interest rates being offered through this partnership, and who bears the risk?",
-        "How does this partnership benefit Access Holdings' shareholders versus small-scale African businesses that trade finance is supposedly meant to serve?",
-        "Which African businesses and sectors will actually have access to these funds—are there details on eligibility criteria that might exclude informal traders and SMEs?",
-        "What is the track record of IFC and Access Holdings' previous trade finance initiatives in Africa, and what measurable outcomes were achieved?",
-        "Why is the article incomplete (ends mid-sentence with 'strengthen'), and what key details about implementation timeline and conditions are missing?"
-      ]
-    },
-    {
-      "url": "https://www.vanguardngr.com/2026/11/nasarawa-apc-crisis-govt-calls-for-probe-of-rally-disruption/",
-      "source": "Vanguard",
-      "title": "Nasarawa APC crisis: Govt calls for probe of rally disruption",
-      "summary": "By Edwin Philip, Lafia The Nasarawa State Government has called on security agencies to investigate an incident that reportedly disrupted activities surrounding Vice-President Kashim Shettima&#8217;s visit to the Emir of Lafia during Wednesday&#8217;s All Progressives Congress (APC) presidential campaign rally. The government made the call following reports of disturbances during the Vice-Presiden",
-      "published": "Wed, 04 Nov 2026 23:29:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:23.887653+00:00",
-      "hausa_translation": "Nasarawa APC Zafi: Gwamnati na kira don Bincike Rufaffiyar Taron Jama'a",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Who specifically disrupted the rally and what were their stated motivations - is this internal APC faction conflict or external opposition?",
-        "Why does the government call for investigation rather than providing details on who was responsible, suggesting possible sensitivity around the incident?",
-        "Which security agencies are implicated or suspected in failing to prevent the disruption, and could this reflect tensions within Nasarawa's security apparatus?",
-        "What is the nature of the APC 'crisis' in Nasarawa - are there competing power centers within the party that this incident exposes?",
-        "Why was the Vice-President's visit to the Emir significant enough to warrant security concerns, and what does this suggest about political fragmentation in the state?"
-      ]
-    },
-    {
-      "url": "https://www.vanguardngr.com/2026/11/kwara-converts-omu-aran-general-hospital-to-teaching-hospital/",
-      "source": "Vanguard",
-      "title": "Kwara converts Omu-Aran General Hospital to teaching hospital",
-      "summary": "By Demola Akinyemi, Ilorin Kwara State Governor, AbdulRahman AbdulRazaq, on Wednesday laid the foundation for the conversion of the General Hospital, Omu-Aran, into the Thomas Adewumi University Teaching Hospital under a public-private partnership arrangement aimed at expanding access to specialised healthcare in Kwara South. The project is expected to strengthen medical education, improve healthc",
-      "published": "Wed, 04 Nov 2026 23:32:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:20.452192+00:00",
-      "hausa_translation": "Kwara ta sauya Gida-gidan Cutar Omu-Aran zuwa Asibiti na Karatun Likitanci",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What are the specific financial terms and profit-sharing arrangements in this public-private partnership, and who benefits most financially?",
-        "Why was Thomas Adewumi University selected as the partner, and were other institutions considered or consulted?",
-        "What happens to the existing staff and operations at Omu-Aran General Hospital during conversion, and what are their job security guarantees?",
-        "How will this conversion affect healthcare accessibility and affordability for Kwara South residents, particularly low-income populations?",
-        "What evidence exists that this project will actually be implemented, given the incomplete article and typical delays in similar Nigerian healthcare infrastructure projects?"
-      ]
-    },
-    {
-      "url": "https://www.vanguardngr.com/2026/11/ex-afreximbank-president-oramah-urges-africa-to-turn-global-shocks-into-opportunities/",
-      "source": "Vanguard",
-      "title": "Ex Afreximbank President, Oramah urges Africa to turn global shocks into opportunities",
-      "summary": "By Henry Ojelu &#38; Deborah Oladeji Former President of the African Export-Import Bank (Afreximbank), Professor Benedict Oramah, has urged African countries to take advantage of changing global realities and technological advancements to accelerate economic transformation. Oramah made the call while delivering the keynote address at the 20th AELEX Annual Lecture in Lagos, with the theme, [&#8230;",
-      "published": "Wed, 04 Nov 2026 23:35:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:17.221557+00:00",
-      "hausa_translation": "Tsohon Shugaban Afreximbank, Oramah ya bugi Afirka su mayar da jiya zuwa kasua - Ya kira ga kasashen Afirka su samfu ikon canje-canjen duniya da ci gaba na fasaha don haɓaka tattalin arzikin Afirka. Ya ce haka a lokacin da ya ba da jawabi a bikin 20th AELEX Annual Lecture a Lagos.",
-      "sentiment": "positive",
-      "region": "africa",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific 'global shocks' and 'technological advancements' is Oramah referencing, and which African nations has he observed successfully capitalizing on them?",
-        "As ex-Afreximbank president, what is Oramah's financial interest or institutional stake in promoting this narrative of African economic transformation?",
-        "Where are the voices of grassroots African economists, small business owners, or civil society representatives on whether these opportunities are actually accessible to ordinary Africans?",
-        "What concrete policy recommendations or funding mechanisms did Oramah propose, or was this primarily aspirational rhetoric without implementation details?",
-        "Why is a former bank president the primary framing source for African economic strategy rather than current government leaders, and does this reflect a power asymmetry in media representation?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMjJPRmNGUXl2akd4OWU4Y1dKLUtaSTVlNG94WnF4VTJuQmNqR1RpeDVTWVdVWWFBQ0hEUk00SDQ5VlFrRExEb3Z0OUR0dEJ2V0stUU9mLXltUUhjVWVaeVlpM3ZWMkxMWFFzTTVFVjkzSGpleERyWVcyNFJvRGN0aFhiRnlYRmxFQVlyNWtPRm5RM0k?oc=5",
-      "source": "Punch",
-      "title": "Evening recap: Free NIN slips, Yamal’s UCL record, other top stories - Punch Newspapers",
-      "summary": "Evening recap: Free NIN slips, Yamal’s UCL record, other top stories&nbsp;&nbsp;Punch Newspapers",
-      "published": "Wed, 04 Nov 2026 18:42:29 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:11.906316+00:00",
-      "hausa_translation": "Jiya da jiya: Kyauta NIN ta zame, Yamal's UCL rikodin, sauran labaru masu mahimmanci",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific policy changes or implementation gaps caused the 'Free NIN slips' issue, and who is responsible for addressing them?",
-        "How does Yamal's UCL record achievement benefit the media outlet or its stakeholders, and is there promotional bias in the coverage?",
-        "Which marginalized voices or affected populations are missing from this recap, particularly regarding the NIN policy impacts?",
-        "What is the timing significance of covering these three disparate stories together - is there an agenda to bury or elevate certain narratives?",
-        "What evidence supports the 'Free NIN slips' claim versus official government statements, and has this been independently verified?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYllhYjRHNWl2RVI0MHF6UjVWXzVhX3RZUi15X2xQNVNsYzUwTTJsT1VvNW5ueS1yVXZMYzVHRWh0YnRjN2Q2TjJtcUtMWnVrYjcwQ0Z1V0wzbUJ1Zjg4ZzZBbFVnVHVKeGVYSnZqYno4ZXhJVF9rR2xXUVNsR090eVV3SQ?oc=5",
-      "source": "Punch",
-      "title": "FG secures 2,512 terrorism convictions in 11 trial phases - Punch Newspapers",
-      "summary": "FG secures 2,512 terrorism convictions in 11 trial phases&nbsp;&nbsp;Punch Newspapers",
-      "published": "Tue, 03 Nov 2026 15:36:49 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:08.502354+00:00",
-      "hausa_translation": "FG ya samu 2,512 shari'ar ta laifi game da terrorisma a cikin lokuta 11 na gwamnati",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the conviction rate relative to total terrorism cases filed, and how many acquittals or dismissed cases occurred?",
-        "Who are the convicted individuals—are they foot soldiers, commanders, or financiers—and does this reflect actual dismantling of terror networks?",
-        "What is the timeline of these convictions and trials, and have they accelerated or slowed in recent phases?",
-        "How many of these convictions involved allegations of extrajudicial detention, torture, or due process violations that could undermine their legitimacy?",
-        "Which specific terrorist groups do these convictions target, and are they equally distributed across Boko Haram, ISWAP, and banditry-related cases?"
-      ]
-    },
-    {
-      "url": "https://punchng.com/4000-workers-to-fill-identified-gaps-eno/?utm_source=rss.punchng.com&utm_medium=web",
-      "source": "Punch",
-      "title": "4,000 workers to fill identified gaps – Eno",
-      "summary": "Akwa Ibom State Governor, Umo Eno, says the recruitment of 4,000 new workers was to fill gaps identified after a verification exercise uncovered ghost work\n\nRead More: https://punchng.com/4000-workers-to-fill-identified-gaps-eno/",
-      "published": "Thu, 05 Nov 2026 00:44:29 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:05:04.590803+00:00",
-      "hausa_translation": "Gwamna Akwa Ibom State, Umo Eno, ya bayar da labari cewa a sakaita ma'aikata 4,000 sabon mutane ne don cika bugi da aka gano bayan jarin tabbatar da aiki. Jarin tabbatar da aiki ya bude wazi game da 'yan aiki masu rai (ghost workers) da ba su da aiki gaske.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "How many 'ghost workers' were discovered in the verification exercise, and what happened to those individuals or the officials who created those positions?",
-        "What is the total cost of recruiting 4,000 new workers and how does this compare to the funds that were being fraudulently paid to ghost workers?",
-        "Were any officials held accountable for the ghost worker scheme, or does this recruitment simply paper over systemic payroll corruption without consequences?",
-        "What specific gaps were identified and how were the 4,000 positions determined to be necessary versus a political patronage exercise?",
-        "Will there be transparent oversight mechanisms to prevent a repeat of ghost worker fraud in this new recruitment round?"
-      ]
-    },
-    {
-      "url": "https://punchng.com/boi-ifc-sign-50m-loan-deal-to-boost-msme-financing/?utm_source=rss.punchng.com&utm_medium=web",
-      "source": "Punch",
-      "title": "BOI, IFC sign $50m loan deal to boost MSME financing",
-      "summary": "The Bank of Industry and IFC have signed a $50m loan deal to expand long-term financing for micro, small and medium-sized enterprises (MSMEs) in Nigeria.\n\nRead More: https://punchng.com/boi-ifc-sign-50m-loan-deal-to-boost-msme-financing/",
-      "published": "Thu, 05 Nov 2026 00:48:42 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:59.938505+00:00",
-      "hausa_translation": "BOI da IFC sun sa hannun jari akan $50m a kasua don ƙara tayin kuɗi ga ƙananan kasua da ƙananan ɗalibai da ƙarami a Najeriya.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What are the actual disbursement mechanisms and timelines - will this capital reach grassroots MSMEs or concentrate among larger borrowers with collateral?",
-        "Who specifically benefits from this arrangement - does IFC's involvement prioritize returns to international investors over local MSME accessibility?",
-        "What are the interest rates, repayment terms, and hidden costs that weren't disclosed in this announcement?",
-        "Why was this partnership announced now - is there a political or fiscal deadline driving the timing?",
-        "Where are the voices of actual MSME operators and their success/failure rates with previous BOI financing schemes?"
-      ]
-    },
-    {
-      "url": "https://punchng.com/psn-opposes-fgs-medipool-drug-supply-plan/?utm_source=rss.punchng.com&utm_medium=web",
-      "source": "Punch",
-      "title": "PSN opposes FG’s Medipool drug supply plan",
-      "summary": "The Pharmaceutical Society of Nigeria has opposed the FG’s plan to use Medipool for drug supply, warning it could weaken oversight and threaten national se\n\nRead More: https://punchng.com/psn-opposes-fgs-medipool-drug-supply-plan/",
-      "published": "Thu, 05 Nov 2026 00:50:21 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:56.343854+00:00",
-      "hausa_translation": "Kungiyar Magungunan Kasar Nijeriya ta Ki Amince da Shirin Gwamnatin kasar Nijeriya na Medipool don Samar da Magungunan, wata gida ce ta Shari'ar Magungunan. Kung gwamnatin kasar Nijeriya ba ta samu karfi mai kyau na bincike ba, zai iya ci gaba da hawainiya a kasar.",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific oversight mechanisms does PSN propose as alternatives to Medipool, and who benefits financially from the current pharmaceutical supply chain?",
-        "Has Medipool or its stakeholders publicly responded to these allegations, and what is their track record with similar supply contracts in other sectors?",
-        "Why is the FG pursuing this plan now—what triggered this policy shift and what documented evidence supports PSN's claims about weakened oversight?",
-        "Which government officials and private entities are backing the Medipool initiative, and are there undisclosed financial interests at play?",
-        "What concrete data does PSN have on 'national security threats' from this plan, versus rhetorical positioning to protect institutional turf?"
-      ]
-    },
-    {
-      "url": "https://punchng.com/adapting-uaes-ai-model-for-nigerias-digital-future-2/?utm_source=rss.punchng.com&utm_medium=web",
-      "source": "Punch",
-      "title": "Adapting UAE’s AI model for Nigeria’s digital future",
-      "summary": "The UAE aims to become an AI-native government by 2027, offering Nigeria lessons in digital infrastructure and data integration for its digital future.\n\nRead More: https://punchng.com/adapting-uaes-ai-model-for-nigerias-digital-future-2/",
-      "published": "Thu, 05 Nov 2026 00:59:51 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:51.620619+00:00",
-      "hausa_translation": "UAE tana niyar zama gwamnati mai amfani da AI a shekara ta 2027, tana bayar wa Nigeria ibra kan gida mai karfi na dijital da haɗa bayanan don gida mai karfi na dijital na Nigeria.",
-      "sentiment": "positive",
-      "region": "africa",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific UAE AI infrastructure models would be applicable to Nigeria's vastly different tech ecosystem, governance structure, and internet penetration challenges?",
-        "Who benefits financially from Nigeria adopting UAE's AI framework—tech companies, consultants, or government contractors—and are there undisclosed commercial interests?",
-        "Why is the UAE positioned as a model when it has limited transparency about its AI governance, data privacy standards, and surveillance implications?",
-        "What are the missing voices—Nigerian tech experts, civil society organizations, and citizens—who should be part of this adaptation conversation?",
-        "Are the practical prerequisites for Nigeria's AI adoption (reliable power, broadband infrastructure, cybersecurity capability) adequately addressed, or is this premature institutional benchmarking?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb0NmZXctclVsVDl6QkxaQnYyaFNyVU9yMWlGSndVbEpZdWh4YjRkaHN1QmQ4Q1I0VWJQREZhWFM4ZGVGXzhDc1BxNFUza0pVNEdydzF2S1FQWjdpZi14SmpyTU1JRGJPVXl3UXJqRXVFajlfeUR0elh5Qzd2VzJOT2JMLTF4RnA2NjVUaGlZZTAzc0JvbEd6TXFVY2FjYnMyWkluS1JxZmFZeE5qSU9pYjNLUGUzdTZQd1hXZXZXZEtJWW5CbnRMbGxoMXd6MmVfN3YyWk5hdm1YZ3FJRkNKSDNR?oc=5",
-      "source": "Premium Times",
-      "title": "Gwamnatin Tarayya ta fitar da naira biliyan 372.62 a matsayin bashin karatun Ɗalibai - Premium Times Hausa",
-      "summary": "Gwamnatin Tarayya ta fitar da naira biliyan 372.62 a matsayin bashin karatun Ɗalibai&nbsp;&nbsp;Premium Times Hausa",
-      "published": "Wed, 04 Nov 2026 17:32:47 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:46.960069+00:00",
-      "hausa_translation": "The Federal Government has released 372.62 billion naira as part of student loan repayment",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the actual purpose and criteria for this 372.62 billion naira disbursement - is it loan forgiveness, subsidy, or structured repayment?",
-        "Which students or educational institutions are the primary beneficiaries, and does this allocation reflect equitable distribution across regions and socioeconomic groups?",
-        "What is the source of this funding and what opportunity costs exist - could these funds have been allocated to other critical sectors like healthcare or infrastructure?",
-        "How does this expenditure align with the Federal Government's fiscal sustainability goals, and what is the long-term budgetary impact?",
-        "Are there independent audits or verification mechanisms to ensure these funds reach intended beneficiaries without leakage or misappropriation?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVG5qZnkxR2gzMVJpNGw5NTA0WG16UUxoRnBvQ2NsYUJZUnBnb1dRRS1UTHY0U1ZIa2p6eEdIcWNjcjJfWkFNRWNSLXI1RTBONWcwUkpEaHZJY3lKY1U2S2NPMTAydUV4YmlueVhWOUZlaVVBd3YteGROb1NKVVZpSkxCUFNwZExDdnhLR25vTW8tbXZnRGxiUGVtekdSbGhnTGRmNlVhRkdkRm96NXVMU0NsRDdHaHB6ZXNHZ3N5SmMwcEZUWllsaGZsQ2x0c3hCZlJuSG91MUNyNDRBNHAxcFQtaE9FcDhnMENKWXo2Nld4Vzh1VE12Vy1Xc1A4VUpYYW1VVA?oc=5",
-      "source": "Premium Times",
-      "title": "Tinubu ya nemi majalisa ta amince da sabon bashin dala biliyan 7.7, ya janye buƙatar bashin da ya gabatar a baya - Premium Times Hausa",
-      "summary": "Tinubu ya nemi majalisa ta amince da sabon bashin dala biliyan 7.7, ya janye buƙatar bashin da ya gabatar a baya&nbsp;&nbsp;Premium Times Hausa",
-      "published": "Wed, 04 Nov 2026 17:58:42 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:43.848494+00:00",
-      "hausa_translation": "Tinubu has requested the assemblies to approve a new budget of 7.7 billion dollars, and has withdrawn the budget request he presented previously",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific projects or allocations differ between the withdrawn budget and the new 7.7 billion dollar proposal?",
-        "Who benefits most from this budget revision and what interests drove the change?",
-        "Why was the previous budget rejected or deemed insufficient, and what circumstances prompted the revision?",
-        "What is the breakdown of the 7.7 billion dollars across sectors, and are there transparency mechanisms for tracking expenditure?",
-        "Which legislative voices opposed or questioned the initial budget, and are their concerns addressed in the new proposal?"
-      ]
-    },
-    {
-      "url": "https://www.premiumtimesng.com/news/more-news/922801-nnpc-ex-director-launches-book-on-failure-of-family-businesses.html",
-      "source": "Premium Times",
-      "title": "NNPC ex-director launches book on failure of family businesses",
-      "summary": "The book draws on the former director's professional experience and her upbringing, particularly the practical intelligence and collaborative strategies she observed in her late parents.\nThe post NNPC ex-director launches book on failure of family businesses appeared first on Premium Times Nigeria.",
-      "published": "Wed, 04 Nov 2026 22:42:31 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:40.279541+00:00",
-      "hausa_translation": "Tsohon difekta na NNPC ya bugi littafi game da gazawar kasuwancin iyali. Littafin ya dogara da ƙwarewar aiki ta tsohon difekta da kakarinsa, musamman ƙarfin hankali da dabarun aiki da ta gani a wurin iyalarta masu gida.",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific failures in family businesses does the book address, and are these based on empirical research or primarily anecdotal observations from the author's family?",
-        "Who stands to benefit commercially from this book launch, and does the author have undisclosed financial interests in family business consulting or advisory services?",
-        "Why is an NNPC ex-director's personal family experience being positioned as authoritative commentary on family business failure, and what credentials qualify her in this domain?",
-        "Are there contrary voices or alternative perspectives from successful family business operators included in the book, or does it present a one-sided narrative?",
-        "What is the timing significance of this book launch - is it connected to any current policy discussions on family businesses or NNPC-related controversies?"
-      ]
-    },
-    {
-      "url": "https://www.premiumtimesng.com/promoted/922807-2027-apc-flags-off-enugu-campaign-in-nsukka-vows-to-deliver-mbah-tinubu-others.html",
-      "source": "Premium Times",
-      "title": "2027: APC flags off Enugu campaign in Nsukka, vows to deliver Mbah, Tinubu, others",
-      "summary": "Governor Mbah highlighted his administration's investments in security, infrastructure, education, healthcare, economic development, and revival of moribund assets\nThe post 2027: APC flags off Enugu campaign in Nsukka, vows to deliver Mbah, Tinubu, others appeared first on Premium Times Nigeria.",
-      "published": "Wed, 04 Nov 2026 22:57:26 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:35.531844+00:00",
-      "hausa_translation": "2027: APC ya bugi jarin yakin niyyar zabe a Nsukka, ta yi alkawari na isar da Mbah, Tinubu, da sauransu",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific infrastructure and security projects has Governor Mbah completed, and are there independent verification reports or audit findings?",
-        "Why is the APC campaign flagging off for 2027 elections this early, and what funding sources are being used for this campaign launch?",
-        "Who are the 'others' being promised delivery, and what constituencies do they represent - is there potential patronage or factional politics at play?",
-        "Are the claimed achievements in healthcare and education backed by measurable data, or are these largely rhetorical assertions?",
-        "What voices from opposition parties or independent analysts are absent from this coverage, and does the article present competing claims about Mbah's tenure?"
-      ]
-    },
-    {
-      "url": "https://www.premiumtimesng.com/promoted/922817-abiodun-orders-immediate-reconstruction-of-saje-elega-adedotun-road.html",
-      "source": "Premium Times",
-      "title": "Abiodun orders immediate reconstruction of Saje-Elega-Adedotun Road",
-      "summary": "The governor said the reconstruction was part of his administration’s commitment to upgrading infrastructure and giving Abeokuta, the state capital, a befitting facelift.\nThe post Abiodun orders immediate reconstruction of Saje-Elega-Adedotun Road appeared first on Premium Times Nigeria.",
-      "published": "Wed, 04 Nov 2026 23:03:58 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:31.800694+00:00",
-      "hausa_translation": "Abiodun ya umarta na kauri sake gina titin Saje-Elega-Adedotun. Gwamna ya ce ginin ya kasance part na niyyar gwamnatinsa na haɓaka abubuwan harkokin gida da ba wa Abeokuta, babbar gida na jihar, kyakkyawan sura.",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the current condition of the road and why has reconstruction been delayed until now?",
-        "What is the budget allocation for this project and has it been publicly disclosed for accountability?",
-        "Who are the contractors awarded this project and what are their track records on previous government contracts?",
-        "Why does the article lack specific timelines, completion dates, or measurable deliverables for this 'immediate reconstruction'?",
-        "Are there competing infrastructure needs in other parts of Ogun State, and how was this particular road prioritized over them?"
-      ]
-    },
-    {
-      "url": "https://www.premiumtimesng.com/health/health-news/922819-six-climate-measures-could-save-1-6-million-lives-yearly-who.html",
-      "source": "Premium Times",
-      "title": "Six climate measures could save 1.6 million lives yearly – WHO",
-      "summary": "According to the report, the six interventions could prevent one in every 40 deaths globally, based on modelled projections, while avoiding 16.7 billion tonnes of carbon dioxide emissions annually.\nThe post Six climate measures could save 1.6 million lives yearly – WHO appeared first on Premium Times Nigeria.",
-      "published": "Wed, 04 Nov 2026 23:44:48 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:27.767603+00:00",
-      "hausa_translation": "Matakan jiya gida shida za su iya ceton rayuka miliyan 1.6 a shekara - WHO",
-      "sentiment": "positive",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Which specific six climate interventions are referenced, and who determines their feasibility and cost-effectiveness across different economic contexts?",
-        "What are the assumptions underlying these mortality projections, and have independent researchers peer-reviewed these modelled estimates?",
-        "Whose voices are missing from this report - particularly from developing nations that bear climate impacts but lack resources to implement these measures?",
-        "Who benefits most from promoting these six specific measures, and are there competing climate solutions being deprioritized by this framing?",
-        "What is the timeline for implementation, and does the WHO address who funds and enforces these interventions in low-income regions?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTFA4SzE1aVBWN18yQ2FCZnZUTXBJZjZadTBEdEo0Z0ZpX3FNSVRBenkzU1JBZE8yelk?oc=5",
-      "source": "S2J News",
-      "title": "Home - S2Jnews - S2Jnews",
-      "summary": "Home - S2Jnews&nbsp;&nbsp;S2Jnews",
-      "published": "Sat, 08 Apr 2023 19:26:59 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:23.932301+00:00",
-      "hausa_translation": "Gida - S2Jnews - S2Jnews",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What is the actual news content being reported, as the summary provides only homepage metadata?",
-        "Who owns S2J News and what is their editorial agenda or potential bias?",
-        "Why is only a homepage link provided without substantive article content to analyze?",
-        "What verification mechanisms does S2J News employ for their reporting?",
-        "Is this a legitimate news source or an aggregator, and what is their track record for accuracy?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdk9IaVkwWnR5NWVOZWNQRm9RS2huQlRyR3BkdDBBd0Q4UkdzZlFyT01RS2hPYTFpRklVS2pUMm85NXB2QUs5LVEtcWU4TmVNSVlsOWNabXRfNlJPLXFmeGtMeFdMTXpIT1JWNFRBTjBsMHAyYzBaN1RhaTNUWU5HTndwLU14Z2ZsWFE?oc=5",
-      "source": "Daily Trust",
-      "title": "Army rewards soldier who rejected kidnapper’s N500,000 bribe - Daily Trust",
-      "summary": "Army rewards soldier who rejected kidnapper’s N500,000 bribe&nbsp;&nbsp;Daily Trust",
-      "published": "Wed, 04 Nov 2026 19:10:17 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:21.043725+00:00",
-      "hausa_translation": "Sojoji ya gida sakamakon da ya katari umarnin mai azaba N500,000 - Daily Trust",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific evidence demonstrates the soldier actually rejected a bribe, and who verified this claim?",
-        "Why would a kidnapper offer a bribe to a soldier rather than simply avoiding contact, and what was the alleged context?",
-        "What exactly constitutes the 'reward' and who authorized it - what are the financial and career implications?",
-        "Are there independent sources beyond the Army's account, such as law enforcement records or victim statements, confirming this incident occurred?",
-        "Why is this story being highlighted now - does it serve a narrative about military integrity that may overshadow other operational concerns?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmFIRmt2WTFBWnNUM20tcnVlWkFIMlgwYk9JVndPU0pTS0FDMkhZTS1QMjh5ZnlIcnlzbVJlMDNON3Raa0dtTzZyd0Y3eFllWTZib0RXNWhJNnJSRjN1ODNmR25UZmFqX2RhdVpRcF80VVhUdENTR0lrZmMzbkN2UmNIcXFwUTlhMkFmSVlSZUtMZ3dZTFdkY05BOA?oc=5",
-      "source": "Daily Trust",
-      "title": "2027: Come out and vote as if it were Judgment Day, Atiku tells Nigerians - Daily Trust",
-      "summary": "2027: Come out and vote as if it were Judgment Day, Atiku tells Nigerians&nbsp;&nbsp;Daily Trust",
-      "published": "Wed, 04 Nov 2026 18:25:17 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:17.842896+00:00",
-      "hausa_translation": "2027: Fito da kuri kamar ranar Alqiyama, Atiku ya gaya wa Nigerians",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific electoral reforms or preparations is Atiku proposing beyond voter mobilization rhetoric?",
-        "Who benefits most from a high-turnout election strategy, and does this align with Atiku's political positioning for 2027?",
-        "Why use religious framing ('Judgment Day') for political participation—is this targeting specific voter demographics?",
-        "What is Atiku's track record on electoral participation and democratic processes in his previous positions?",
-        "Are there concerns about electoral integrity, security, or access that this 'come out and vote' message might be obscuring?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yall2S21ZR29aZVFHaXNQRmJvTUoyMmwtamx1UngxSXVHal9nM3RzU2QwN0JfTGxNRzgta044aTBuWkZ6cEk2a3g3REFDa1RreUxhb3lRem1YTVhfendBSmx1cnM2QmlWcmI5TzdUenZQdThaRzV2S05JNA?oc=5",
-      "source": "Daily Trust",
-      "title": "2027: I’ll End Insecurity, Restore Hope, Says Atiku - Daily Trust",
-      "summary": "2027: I’ll End Insecurity, Restore Hope, Says Atiku&nbsp;&nbsp;Daily Trust",
-      "published": "Wed, 04 Nov 2026 14:06:10 GMT",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:14.605857+00:00",
-      "hausa_translation": "2027: Zan Kawar da Rashin Tsaro, Maida Bege, In ce Atiku",
-      "sentiment": "positive",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific policies or strategies does Atiku propose to address insecurity, and are they substantively different from previous claims?",
-        "Who benefits politically from this 2027 campaign announcement at this particular time, and what is the timing strategy?",
-        "Where is the evidence or data supporting his claim to 'restore hope' - are concrete metrics or past achievements referenced?",
-        "Whose voices are missing from this coverage - perspectives from security experts, victims, or political opponents?",
-        "Is 'restore hope' loaded language designed to appeal emotionally without specifying actionable plans?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/lessons-plateau-can-learn-from-us-policy-of-citizenship/",
-      "source": "Daily Trust",
-      "title": "Lessons Plateau can learn from US Policy of Citizenship",
-      "summary": "Plateau State has lived for decades with a question America answered over 150 years ago: Who is a citizen, and who is a stranger? In Jos North, Bassa, Barkin-Ladi and Riyom, the distinction between &#8220;indigene&#8221; and &#8220;settler&#8221; has decided who gets a job, who gets a school admission, who gets a certificate, and in extreme [&#8230;]",
-      "published": "Wed, 04 Nov 2026 20:28:00 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:10.977929+00:00",
-      "hausa_translation": "Abubuwan da Plateau zai iya koyi daga Manufar Jama'a ta Amurka - Plateau State ya kasance tsawon shekaru da tambaya da Amerika ta amsa fiye da shekaru 150 da suka wuce: Wane ne jama'a, kuma wane ne baaje? A Jos North, Bassa, Barkin-Ladi da Riyom, bambanci tsakanin 'yan gida' da 'bakin bayi' ya yanke shawo a kan wanda zai sami aiki, wanda zai sami karatu, wanda zai sami takardar karantarwa, kuma a mamaye.",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Who benefits from perpetuating the indigene/settler distinction in Plateau State's employment and education systems, and what economic or political interests does it serve?",
-        "Why is the US citizenship model being presented as a solution when Nigeria's 1999 Constitution already has provisions on citizenship—and what specific policy gaps is this article overlooking?",
-        "Whose voices are missing from this narrative—particularly settlers' accounts of discrimination and indigenes who support equal rights?",
-        "Does the comparison to US policy obscure that America's citizenship framework has its own ongoing inequities (systemic racism, immigration restrictions), potentially offering false equivalence?",
-        "What evidence supports that adopting US-style citizenship policy would actually resolve Plateau's intercommunal conflicts, versus masking deeper resource and land disputes?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/nmdpra-efcc-seal-off-chinese-linked-illegal-refinery-in-ogun/",
-      "source": "Daily Trust",
-      "title": "NMDPRA, EFCC seal off Chinese-linked illegal refinery in Ogun",
-      "summary": "Officials of the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) and the Economic and Financial Crimes Commission (EFCC) on Wednesday raided an illegal refinery linked to the Chinese at Ogere-Remo, Ikenne Local Government Area of Ogun State. The officials stormed the facility after the EFCC&#8217;s intelligence exposed what investigators described as a well-fenced, crude ",
-      "published": "Wed, 04 Nov 2026 21:02:30 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:04.817821+00:00",
-      "hausa_translation": "Jami'an NMDPRA da EFCC sun rufe gida mai shuni da ake danganta da Sinawa a Ogun",
-      "sentiment": "negative",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What evidence directly links this facility to Chinese nationals, and who benefits from emphasizing this foreign connection?",
-        "Why was this particular refinery targeted now, and were similar domestic-linked operations raided with equal enforcement vigor?",
-        "What happens to seized assets and crude oil, and where does the recovered value go in the enforcement chain?",
-        "How extensive is this illegal refining operation, and what is the scale compared to other unreported sites in the region?",
-        "Who provided the EFCC intelligence, and could commercial competitors or political actors have motivated this specific raid?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/n70000-allowance-ex-labour-leaders-wade-into-nlc-tuc-rift/",
-      "source": "Daily Trust",
-      "title": "N70,000 allowance: Ex-labour leaders wade into NLC, TUC rift",
-      "summary": "Former leaders of the Nigeria Labour Congress (NLC) and the Trade Union Congress (TUC) have commenced a reconciliatory move aimed at resolving the recent face-off between the presidents of NLC and TUC. It was learnt that past leaders of both labour centres had held a crucial meeting before calling on the two warring parties to [&#8230;]",
-      "published": "Wed, 04 Nov 2026 21:48:03 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:04:01.617993+00:00",
-      "hausa_translation": "Kwanciyar N70,000: Tsofaffin jagoran aiki sun shiga cikin rigimar NLC da TUC",
-      "sentiment": "neutral",
-      "region": "nigeria",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "What specific incidents or policy disagreements triggered the NLC-TUC rift that ex-leaders are now attempting to mediate?",
-        "Who benefits most from a reconciliation between these labour bodies - workers, government, or union leadership consolidating power?",
-        "Why are former leaders taking initiative rather than current leadership resolving this independently, and what influence do they actually wield?",
-        "Is the N70,000 allowance mention connected to the dispute, or is it separate context being used to frame the reconciliation narrative?",
-        "What do rank-and-file workers know about this rift, and are their voices represented in the reconciliation efforts being described?"
-      ]
-    },
-    {
-      "url": "https://dailytrust.com/ucl-gyokores-leads-arsenal-to-victory-in-prague-as-como-claim-historic-9-1-win/",
-      "source": "Daily Trust",
-      "title": "UCL: Gyokores leads Arsenal to victory in Prague as Como claim historic 9-1 win",
-      "summary": "Viktor Gyokores scored and assisted Noni Madueke in Arsenal’s 2-1 win over Slavia Prague in the UEFA Champions League on Wednesday night. The Swede was in the mood to prove head coach Mikel Arteta wrong for his lack of playing time, and he produced the goods for the scrappy win. Gyokores sent Madueke clear for [&#8230;]",
-      "published": "Wed, 04 Nov 2026 22:37:50 +0000",
-      "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:03:58.284097+00:00",
-      "hausa_translation": "Viktor Gyokores ya zaa kwallo kuma ya taimaka wa Noni Madueke a cikin Arsenal's nasara 2-1 a kan Slavia Prague a UEFA Champions League jiya. Swediyan nan ya nuna karfin sa don tabbatar da kansa ga koche Mikel Arteta game da rashin lokacin wasa, kuma ya aiwatar da aikinsa sosai.",
-      "sentiment": "positive",
-      "region": "world",
-      "context_check": "needs_context",
-      "critical_questions": [
-        "Why does the headline credit Gyokores but the summary indicates Arsenal had 'scrappy' play - does the performance justify the triumphalism?",
-        "Is the framing of Gyokores 'proving wrong' Arteta's selection choices legitimate analysis or narrative speculation without supporting evidence?",
-        "Why is a 2-1 victory described as 'historic' for Como's 9-1 win when these appear to be separate matches - is this editorial error or misleading conflation?",
-        "What is the source's ownership interest in Arsenal coverage, and does the tone reflect standard sports journalism or promotional bias?",
-        "Are specific statistics (possession, shots, chances) absent from this summary, and if so, does that weaken the credibility of performance assessment?"
-      ]
-    },
-    {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEFDVnFmWmlwLV80YUJwT1BKbXRJZHdFb0FpR2tSb0JQdWZfUk1sY0ZjWE16QTRQb1U1TDcyOW1RZndpTXhoTWpxdC1MRGlhay1kUVJ6YzJ5OTlyOTdmREUxN3JXdU1qYnRvSkx1VDFycnllN2JERkMzeS05YW1QZi1xc3FReHdyRlpXTjZ1ODg5empGVjlaek5LaUJOS2ZrUTIxNUxvUVJJNVR1RzFUbzlpUHZ1SDFKWEtsN2VRVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeGlUeUlLb1NwNnBZRnFiZGZWY3ZlMVRIU3NXQ3FGNElHVU0wUW1nbk1ET2FvWElhcWlpNmtaeG0zS3J6aE42OC05RG5oSGRwdmpiMWRSQl9BVkdfdFlUTHVfTEQtMXNkdFUySXFyZ21yUzBodVQ4SjFaMXo4eG8xZWltai02SmJGbXg3UHVFQnNuZ2dpSlM0WGhhUEV1M2M1OWlocEpZR1ozZURXNlpTRm1kN2JGSWNhc0pZR0F3Yw?oc=5",
       "source": "Sahara Reporters",
-      "title": "BREAKING: Ex-Soldier Ruth Ogunleye, Who Accused Defence Minister Musa Of Ignoring Sexual Harassment Complaint, Arrested - Sahara Reporters",
-      "summary": "BREAKING: Ex-Soldier Ruth Ogunleye, Who Accused Defence Minister Musa Of Ignoring Sexual Harassment Complaint, Arrested&nbsp;&nbsp;Sahara Reporters",
-      "published": "Mon, 26 Oct 2026 07:00:00 GMT",
+      "title": "BREAKING: Armed Men Kidnap AAC Presidential Candidate Omoyele Sowore In Ekiti, Vandalise Eatery - Sahara Reporters",
+      "summary": "BREAKING: Armed Men Kidnap AAC Presidential Candidate Omoyele Sowore In Ekiti, Vandalise Eatery&nbsp;&nbsp;Sahara Reporters",
+      "published": "Fri, 30 Oct 2026 16:13:59 GMT",
       "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:03:52.950825+00:00",
-      "hausa_translation": "BREAKING: Tsohon Soja Ruth Ogunleye, Wanda Ta Tuhuma Ministan Difensa Musa Da Watsi Da Kararar Zalunci, An Kama Ta - Sahara Reporters",
+      "fetched_at": "2026-11-05T12:52:37.123115+00:00",
+      "hausa_translation": "BREAKING: Yan bindiga da hannu suka zagi AAC kandidatin shugaban kasa Omoyele Sowore a Ekiti, suka lalata gida ɗin abinci",
       "sentiment": "negative",
       "region": "nigeria",
       "context_check": "needs_context",
       "critical_questions": [
-        "What are the specific charges against Ruth Ogunleye, and are they related to her sexual harassment allegations or separate matters?",
-        "Who initiated the arrest and on whose authority - is there a potential connection to silencing her complaint against the Defence Minister?",
-        "What evidence exists of the original sexual harassment complaint, and has it been independently verified or documented?",
-        "What is the timeline between her accusation against Minister Musa and her arrest - could this be retaliatory?",
-        "Are there other corroborating witnesses or victims who can validate her harassment claims, and why is their testimony absent from this report?"
+        "Who are these 'armed men' and what evidence establishes their identity and motive - political, criminal, or state-affiliated?",
+        "What is the source verification for this claim - is it from Sowore himself, eyewitnesses, authorities, or Sahara Reporters' own reporting?",
+        "Why was the eatery vandalized - was it targeted as a cover for kidnapping, or are these separate incidents being conflated?",
+        "What is the timeline and current status of Sowore - has he been released, rescued, or is this an ongoing situation when the report was published?",
+        "Does Sahara Reporters' ownership and editorial position toward AAC/Sowore create potential bias in how this dramatic claim is framed and presented?"
       ]
     },
     {
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdkx3dTViOWNmaE1PMENSZUxZNFR0SEhfMXh6enVHeXhJV1c2Z3JqQ0g0RGtXNENYN2ZBMDdicGNqOG8wUU1QZDgwRWJhdTd2V25BNHpXa0lhRzFUeWxYaV9FVzdnYlRKVF9uNG5XUWtCeUxVanRiWlVrdEVFODJkRTR0SXIxczJsXzFiQ3dILUhnNTJYVi1QaHd3TVcyenlPS0V1SVRSeUY3LVBLelMyNUM1dDdmWW9DeGpWSy00cw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkdNWThER3I2MHVPM1dYS0RCQlY1d19VeW1iZVFoT282NDg3RC1ydzBJOTZpSWZjeHVFcWxZVlloTmtWdVhBdGZKTzM1ejNMUVNEMldpdDJieG9nMHhMQnNjRjVPTkNwdHJVTXRWcUNQaVBfNkhNY0lNVXBVVUMtMjk3ZmZxUzhMc0VzSmtRbS05VV9sd1huREV4U2s5WkNBWDNKc0k3OGRKLWwzcmVqMjlYeXBMcF9WZnQ3bFUzUm4?oc=5",
       "source": "Sahara Reporters",
-      "title": "19 Months After Tinubu’s ‘You Are Hired’ Declaration, 774 National Health Fellows Still Stranded Without Appointment Letters - Sahara Reporters",
-      "summary": "19 Months After Tinubu’s ‘You Are Hired’ Declaration, 774 National Health Fellows Still Stranded Without Appointment Letters&nbsp;&nbsp;Sahara Reporters",
-      "published": "Wed, 04 Nov 2026 17:50:36 GMT",
+      "title": "'Tinubu Must Go' Protest Rocks Zamfara As Men, Women, Children Take To Streets Over Insecurity - Sahara Reporters",
+      "summary": "'Tinubu Must Go' Protest Rocks Zamfara As Men, Women, Children Take To Streets Over Insecurity&nbsp;&nbsp;Sahara Reporters",
+      "published": "Mon, 02 Nov 2026 16:04:55 GMT",
       "region_hint": "nigeria",
-      "fetched_at": "2026-11-05T00:03:49.423875+00:00",
-      "hausa_translation": "Jiya da jiya bayan sanarwar Tinubu na 'Ka sami aiki', masu karɗa lafiya 774 har yanzu ba su karɓi wasiƙun niyya ba",
+      "fetched_at": "2026-11-05T12:52:33.233406+00:00",
+      "hausa_translation": "Zanga-zangari 'Tinubu Dole Ya Tashi' Ya Damje Zamfara Yayin Da Maza, Mata, Da Yara Suka Tashi Kan Jiya Saboda Rashin Aminci",
       "sentiment": "negative",
       "region": "nigeria",
-      "context_check": "verified",
+      "context_check": "needs_context",
       "critical_questions": [
-        "Why has the Ministry of Health failed to issue appointment letters 19 months after the presidential directive, and who bears administrative responsibility?",
-        "What is the financial or bureaucratic incentive for delaying these appointments, and which stakeholders benefit from the status quo?",
-        "Why hasn't Tinubu's office publicly followed up on his own declaration, and what does this reveal about implementation capacity?",
-        "Are the 774 fellows receiving any compensation or stipend during this limbo, and what are the documented hardships they face?",
-        "What independent verification exists for this specific number (774), and have affected fellows or their representatives been consulted for their account?"
+        "What specific security incidents or data prompted this protest now, and is there a coordinated political movement behind the timing?",
+        "Who organized and funded this protest, and what alternative solutions have been proposed beyond the demand for regime change?",
+        "How representative is this demonstration of broader Zamfara public opinion, and what do local elected officials and community leaders say about the security situation?",
+        "What concrete actions has the federal government taken on security in Zamfara recently, and why might those efforts be insufficient or ineffective?",
+        "Is the 'Tinubu Must Go' framing evidence-based accountability or opposition rhetoric, and what would satisfy security demands without regime change?"
+      ]
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRURJOGdBaldqcE9wNlIzdWQxbkZRQmJpRlJ4Z0xzN1g5YkxPcTNGcHJCUUNyU29EdGtZVlJqN1VyWXl5Uy1LcEE1TEVTVmo0Wi1Ra3pkbXVUVlpLTVp1UU1OYWkzd1E1dF9BMzNGM0VOa04waHBmVDREWDN5RS1OenY0Q0FPdEM4UjZQc0t6amZwV1E2TG9URXRNT2lfVjA5NHBHOG1DUkp4LW9sbWhlN0R5cWJTWElacm1pV2wtSkJlQQ?oc=5",
+      "source": "Sahara Reporters",
+      "title": "BREAKING: Bandits Kill Nigerian Police Officers Travelling From Sokoto To Zamfara For Special Duty - Sahara Reporters",
+      "summary": "BREAKING: Bandits Kill Nigerian Police Officers Travelling From Sokoto To Zamfara For Special Duty&nbsp;&nbsp;Sahara Reporters",
+      "published": "Mon, 02 Nov 2026 14:24:42 GMT",
+      "region_hint": "nigeria",
+      "fetched_at": "2026-11-05T12:52:29.527647+00:00",
+      "hausa_translation": "SABAWAR: 'Yan Daba Suka Kashe Jami'an Polisi Na Najeriya Wajen Tafiya Daga Sokoto Zuwa Zamfara Don Aiki Na Musamman - Sahara Reporters",
+      "sentiment": "negative",
+      "region": "nigeria",
+      "context_check": "needs_context",
+      "critical_questions": [
+        "What is the confirmed death toll and have identities of the deceased officers been independently verified?",
+        "Who were the perpetrators - which specific bandit groups are claiming responsibility, and what is their stated motivation?",
+        "Why were police officers traveling from Sokoto to Zamfara for 'special duty' - what was the nature of this operation and who authorized it?",
+        "What is the security pattern in this corridor - is this part of a larger escalation or isolated incident, and what preventative measures exist?",
+        "Has the Nigerian Police Force or Zamfara State government issued official statements, or is this report based solely on unnamed sources?"
       ]
     }
   ]
